@@ -19,8 +19,21 @@
         "fascinatingFact":"Hot girls",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-armenia:* "   
     },
+
+    
     {
         "id":3,
+        "place":" Taipei City ",
+        "country":"Taiwan",
+        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
+        "Language":["Mandarin , Hakka"],
+        "famousFor":"Cultural landmarks, Architectural significance, Temple of Manka,",
+        "fascinatingFact":"Home of world's 5^th tallest building",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
+    },
+
+    {
+        "id":4,
         "place":"Bhutan",
         "country":"Bhutan",
         "photo":" https://www.lostwithpurpose.com/wp-content/uploads/2018/05/DSC02425.jpg",
@@ -29,8 +42,9 @@
         "fascinatingFact":"Very ancient and traditional country",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-bhutan "   
     },
+   
     {
-        "id":4,
+        "id":5,
         "place":"Gokarna",
         "country":"India",
         "photo":" https://www.holidify.com/images/bgImages/GOKARNA.jpg",
@@ -38,5 +52,6 @@
         "famousFor":"Beach",
         "fascinatingFact":"Gokarna was a part of the Konkan region along with Goa where the Portuguese once ruled.",
         "howToReach":"https://www.india.com/travel/gokarna/how-to-reach/"   
+
     }
 ]
