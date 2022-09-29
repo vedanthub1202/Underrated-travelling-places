@@ -23,10 +23,20 @@
         "id":3,
         "place":"Bhutan",
         "country":"Bhutan",
-        "photo":" https://www.lostwithpurpose.com/wp-content/uploads/2018/05/DSC02425.jpg ",
+        "photo":" https://www.lostwithpurpose.com/wp-content/uploads/2018/05/DSC02425.jpg",
         "Language":["bhutanian"],
         "famousFor":"Culture",
         "fascinatingFact":"Very ancient and traditional country",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-bhutan "   
+    },
+    {
+        "id":4,
+        "place":"Gokarna",
+        "country":"India",
+        "photo":" https://www.holidify.com/images/bgImages/GOKARNA.jpg",
+        "Language":["Kannada"],
+        "famousFor":"Beach",
+        "fascinatingFact":"Gokarna was a part of the Konkan region along with Goa where the Portuguese once ruled.",
+        "howToReach":"https://www.india.com/travel/gokarna/how-to-reach/"   
     }
 ]
