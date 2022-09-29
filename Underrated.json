@@ -17,10 +17,11 @@
         "Language":["Armenium"],
         "famousFor":"Mountains",
         "fascinatingFact":"Hot girls",
+
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:"   
-    }
+    },
     {
-        "id":2,
+        "id":3,
         "place":"Garni Gorg",
         "country":"Armeni",
         "photo":" ttps://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
@@ -28,5 +29,18 @@
         "famousFor":"Muntains",
         "fascinatingFact":"Ht girls",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:"   
+
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-armenia:* "   
+    },
+    {
+        "id":4,
+        "place":"Bhutan",
+        "country":"Bhutan",
+        "photo":" https://www.lostwithpurpose.com/wp-content/uploads/2018/05/DSC02425.jpg ",
+        "Language":["bhutanian"],
+        "famousFor":"Culture",
+        "fascinatingFact":"Very ancient and traditional country",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-bhutan "   
+
     }
 ]
