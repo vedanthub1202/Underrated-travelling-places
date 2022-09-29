@@ -18,5 +18,15 @@
         "famousFor":"Mountains",
         "fascinatingFact":"Hot girls",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-armenia:* "   
+    },
+    {
+        "id":3,
+        "place":"Bhutan",
+        "country":"Bhutan",
+        "photo":" https://www.lostwithpurpose.com/wp-content/uploads/2018/05/DSC02425.jpg ",
+        "Language":["bhutanian"],
+        "famousFor":"Culture",
+        "fascinatingFact":"Very ancient and traditional country",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-bhutan "   
     }
 ]
