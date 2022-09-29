@@ -53,5 +53,16 @@
         "fascinatingFact":"Gokarna was a part of the Konkan region along with Goa where the Portuguese once ruled.",
         "howToReach":"https://www.india.com/travel/gokarna/how-to-reach/"   
 
+    },
+    {
+        "id":6,
+        "place":"Kolhapur",
+        "country":"India",
+        "photo":" https://www.holidify.com/images/bgImages/KOLHAPUR.jpg",
+        "Language":["Kannada"],
+        "famousFor":"Beach",
+        "fascinatingFact":"Gokarna was a part of the Konkan region along with Goa where the Portuguese once ruled.",
+        "howToReach":"https://www.india.com/travel/gokarna/how-to-reach/"   
+
     }
 ]
