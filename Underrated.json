@@ -225,9 +225,13 @@
         "famousFor":"Beloved for its romantic architecture, colorful history and ethereal, sphagnum-draped trees, the city is fast adding hotel rooms to accommodate a swell of visitors",
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
-        },
-        
-        {
+
+
+    },
+
+{
+
+
      "id":21,
         "place":"Harvalem Waterfalls",
         "country":"India",
@@ -237,6 +241,9 @@
         "fascinatingFact":"well known scenic waterfall with a multi-level viewing area is large during monsoon season",
         "howToReach":"https://www.google.com/maps/place/Harvalem+Waterfalls/@15.5510768,74.024463,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfbd4c54c04655:0x623633fe068aab4b!8m2!3d15.5510768!4d74.0266517"
 },
+
+    
+
 
  {
         "id":22,
@@ -294,15 +301,6 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
     },
-         {
-        "id":27,
-        "place":" Faroe Islands ",
-        "country":"Faroe Islands",
-        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
-        "fascinatingFact":"Buses are free to use in the capital",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
-    },
-
     
     {
     "id"=27,
@@ -419,7 +417,7 @@
         "famousFor":"nature and greenery
         "fascinatingFact":"shivas temple at top of hill"
         "howToReach":" https://goo.gl/maps/y1WEJ3CCAGSmGJsbA"
-        },
+        }
            
            {
         "id":38,
@@ -431,6 +429,7 @@
         "fascinatingFact":"This is a beautiful and laid-back place in the North-east side of India which is known to be a home to a unique tribal group.",
         "howToReach":"https://www.google.com/maps?q=ziro+india&rlz=1C1GCEJ_enIN964IN964&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj_89KSmb36AhXEyDgGHRWeAL8Q_AUoAnoECAMQBA"
     },
+
         {
         "id":39,
         "place":"Seven Sister Hills",
@@ -462,7 +461,16 @@
         "famousFor":"Caves and Rock Cut Moments",
         "fascinatingFact":"sculpyural art",
         "howToReach":"https://www.google.com/maps/place/Kanheri+Caves/@19.2058509,72.9068504,15z/data=!4m2!3m1!1s0x0:0xf5677ab36922b95f?sa=X&ved=2ahUKEwi62rKuk736AhU_T2wGHQpEC7AQ_BJ6BQiNARAF"
+},
+    
+    {
+    "id":42,
+    "place":"Taj Mahal",
+    "country":"India",
+    "photo":"https://lp-cms-production.imgix.net/news/2018/01/taj-mahal-visitor-limits.jpg?w=1200&sharp=10&vib=20",
+    "Language":["Hindi"],
+    "fascinatingFact":"memory of Mumtaj Mahal",
+    "howToReach":"https://www.google.com/maps/place/Taj+Mahal/@27.1751448,78.0399535,17z/data=!3m1!4b1!4m5!3m4!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422",
 }
-    
-    
+
 ]
