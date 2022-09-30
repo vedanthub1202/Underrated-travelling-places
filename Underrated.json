@@ -210,5 +210,15 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
+    {
+        "id":18,
+        "place":" Jaipur ",
+        "country":"India",
+        "photo":"https://www.holidify.com/images/bgImages/JAIPUR.jpg",
+        "Language":["English, Hindi, Rajasthani"],
+        "famousFor":"Jaipur, the pink city, successfully retains its old-world charm. Home to a few UNESCO World Heritage sites, including Amer Fort and Jantar Mantar, Jaipur holds many magnificent forts, palaces, temples and museums and brims with bustling local bazaars where you can shop to your heart's content.",
+        "fascinatingFact":"home to all the modern amenities with some of the most exotic hotels and resorts in the world.",
+        "howToReach":" https://goo.gl/maps/U7JCux6wMbF9pB3p8"
+    },
 
 ]
