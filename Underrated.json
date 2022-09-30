@@ -300,7 +300,7 @@
     },
     
     {
-    "id"="27",
+    "id"=27,
     "place":"Paleshwar",
     "country":"India",
     "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNQq-jxB67PQ-YRj0o4oWlibGVMyGA2O0olDr8o%3Dw296-h202-n-k-no-v1&imgrefurl=https%3A%2F%2Fwww.google.co.in%2Ftravel%2Fentity%2Fkey%2FChoI4d6D5qfsrpqFARoNL2cvMTFydDFyZmp4chAE&tbnid=err3qpl24J71-M&vet=12ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ..i&docid=AekT0t6z3pMTGM&w=296&h=202&q=paleshwar&ved=2ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ",
@@ -344,8 +344,6 @@
 
 
     {
-
-
         "id":31,
         "place":" Ecuador ",
         "country":"Ecuador",
@@ -354,9 +352,18 @@
         "famousFor":"Award-winning restaurants,Cuyabeno Wildlife Reserve,powdery beaches,peak of Cotopaxi",
         "howToReach":"https://www.rome2rio.com/map/Quito-Airport-UIO/Cuyabeno-Wildlife-Reserve "
     },
-    
+
     {
         "id":32,
+        "place":" Lakshadweep",
+        "country":"India",
+        "photo":"https://www.holidify.com/images/bgImages/LAKSHADWEEP-ISLANDS.jpg",
+        "Language":["English", "Hindi","Tamil"],
+        "famousFor":"seashore",
+        "howToReach":"https://lakshadweep.gov.in/how-to-reach/#:~:text=Lakshadweep%20Island%20can%20be%20reached,Airlines%20operate%20flights%20from%20Kochi. "
+    },
+    {
+        "id":33,
         "place":" narsivhan temple ",
         "country":"india",
         "photo":"https://www.google.com/search?q=temple+halshi+vadikarad&tbm=isch&ved=2ahUKEwjM4qevhr36AhUkktgFHe_oAZUQ2-cCegQIABAA&oq=temple+halshi+vadikarad&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQHhAHOgYIABAeEAg6BAgAEBg6CwgAEIAEELEDEIMBOgUIABCABDoECAAQQzoICAAQHhAIEAc6BggAEAoQGDoGCAAQHhAFUOELWIdKYK9MaABwAHgAgAHBAYgB3xiSAQQwLjIxmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=gyg3Y4yVBKSk4t4P79GHqAk&bih=571&biw=1229&rlz=1C1FKPE_enIN974IN974"
@@ -366,7 +373,7 @@
         "howToReach":" https://goo.gl/maps/XSDPBx2hqwkApJZz8"
     },
     {
-        "id":33,
+        "id":34,
         "place":"Karjat hills",
         "country":"India",
         "photo":"https://www.hillstationboss.com/karjat/",
