@@ -63,15 +63,17 @@
         "famousFor":"Landscapes,seashore",
         "fascinatingFact":"The water is so blue that blue seems to be dull",
         "howToReach":"https://www.beautifulpuglia.com/how-to-get-to-puglia/"   
-    }
-    
-    {"id":7,
-        "place":"airoli",
-        "country":"india",
-        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAiroli_Bridge&psig=AOvVaw0SRHXeAclw91jMExR_ENFi&ust=1664630766564000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDAn4PPvPoCFQAAAAAdAAAAABAD",
-        "Language":["Hindi,English, Marathi"],
-        "famousFor":"Landscapes,seashore",
-        "fascinatingFact":"Has the largest mangroves forest in Mumbai",
-        "howToReach":"https://moovitapp.com/index/en/public_transit-Airoli-Mumbai-stop_29128045-3732"   
-    }
+    },
+    {
+        "id":7,
+        "place":"Madagascar",
+        "country":"Madagascar",
+        "photo":" https://www.istockphoto.com/search/2/image?phrase=madagascar",
+        "Language":["malagasy"],
+        "famousFor":"Views",
+        "fascinatingFact":"Most of Madagascar’s wildlife is found nowhere else on Earth",
+        "howToReach":"https://www.thomascook.in/international-tourism/how-to-reach-madagascar"   
+
+    },
+        
 ]
