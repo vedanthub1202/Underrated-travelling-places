@@ -189,9 +189,9 @@
         "famousFor":"reverse waterfall",
         "fascinatingFact":"scenic views",
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
-    },
+    }
      {
-       "id":18,
+       "id":17 ,
         "place":"Dandoba",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCg6kXWLzy_M&psig=AOvVaw0zD5RWsoVYMowOAt4LX7ia&ust=1664640966961000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjhi4T1vPoCFQAAAAAdAAAAABAD",
@@ -199,45 +199,9 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
-    },
-
-    {
-       "id":19 ,
-        "place":"Daulatabad Fort",
-        "country":"India",
-        "photo":"https://www.google.com/maps/uv?pb=!1s0x3bdb9102a9586c27%3A0xa58c3f86bac73173!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN8qFlkdnEa7D4ouUCsuBrVS-yIKHKUsQpq9or5%3Dw379-h240-k-no!5sdaulatabad%20fort%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPL2z2OqirQ4KllgRKwsxsu_kF2nX2_kPdiAMv5&hl=en&sa=X&ved=2ahUKEwj__eDB-7z6AhUnBLcAHebqC9YQoip6BQiCARAD",
-        "Language":["Marathi"],
-        "famousFor":"treking",
-        "fascinatingFact":"Baradari at top where you can have lunch",
-        "howToReach":"https://goo.gl/maps/Dew2m2vjDQBka2WY9"
-
-    {
-       "id":20,
-        "place":"Bhilawadi Station",
-        "country":"India",
-        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Findiarailinfo.com%2Fstation%2Fmap%2Fbhilavdi-bvq%2F2242&psig=AOvVaw0WuWTFQAua2SMnbSd3Xorz&ust=1664642721026000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJicw8P7vPoCFQAAAAAdAAAAABAE",
-        "Language":["Marathi"],
-        "famousFor":"Chitale Milk Dairy",
-        "fascinatingFact":"Very good milk Products",
-        "howToReach":"https://www.google.com/maps?q=bhilawadi+railway+station&source=lmns&bih=760&biw=1536&rlz=1C1CHZN_enIN949IN949&hl=en&sa=X&ved=2ahUKEwiB3-TB-7z6AhUXj9gFHSEBAa4Q_AUoAXoECAEQAQ"
     }
-
-     {
-        "id":21 ,
-        "place":"sagreshwar",
-        "country":"india",
-        "photo":" https://www.google.com/maps/uv?pb=!1s0x3bc171878137a82d:0xfe73b498e66ec60d!3m1!7e115!4shttps://lh5.googleusercontent.com/p/AF1QipM-3zbWh1om-HyFdyZa_J_1e5MIOuQQLsTth_hC%3Dw266-h200-k-no!5ssagreshwar+-+Google+Search!15zQ2dJZ0FRPT0&imagekey=!1e10!2sAF1QipM-3zbWh1om-HyFdyZa_J_1e5MIOuQQLsTth_hC&hl=en&sa=X&ved=2ahUKEwiXmZax_Lz6AhWwgtgFHX9PBIcQoip6BAhCEAM",
-        "Language":["marathi"],
-        "famousFor":"nature",
-        "fascinatingFact":"deers",
-        "howToReach":"https://maharashtraplanet.com/wildlife-sanctuaries-in-maharashtra/sagareshwar-wildlife-sanctuary/how-to-reach"   
-
-    },
-        
-
-
     {
-        "id":22,
+        "id":17,
         "place":" Savannah ",
         "country":"Georgia",
         "photo":"https://travel.home.sndimg.com/content/dam/images/travel/stock/2018/4/5/0/GettyImages-504850010_joe-daniel-price_Savannah-Georgia.jpg.rend.hgtvcom.966.644.suffix/1523051076570.jpeg ",
@@ -247,24 +211,25 @@
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
     {
-        "id":23,
-        "place":" El Nicho Waterfalls ",
-        "country":"Cuba",
-        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
-        "Language":["English, Spanish"],
-        "famousFor":"The waterfall is attractive and flows throughout the year, even during the dry season.",
-        "howToReach":" https://www.google.com/maps/place/Cascate+El+nicho/@22.0281425,-80.1335324,17z/data=!3m1!4b1!4m5!3m4!1s0x8f2b20ce1ef24b37:0xe576dbd48cbe30b9!8m2!3d22.0281425!4d-80.1313437?hl=en"
+        "id":18,
+        "place":" Savannah ",
+        "country":"Georgia",
+        "photo":"https://en.wikipedia.org/wiki/File:A_cross_section_of_luch_green_valley_of_Ziro.jpg",
+        "Language":["Bengali"],
+        "famousFor":"beautiful valleys, lush green valleys, rich tribal culture",
+        "fascinatingFact":"Ziro is a town and the district headquarters of the Lower Subansiri district in the Indian state of Arunachal Pradesh. It is included the Tentative List for UNESCO's World Heritage Site for the Apatani cultural landscape.",
+        "howToReach":"https://www.google.com/maps/search/ziro+valley+arunachal+pradesh/@27.5631904,93.8194242,12z/data=!3m1!4b1"
     },
-
- {
-        "id":24,
-        "place":" Harishchandra Fort ",
-        "country":"India",
-        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thrillophilia.com%2Ftours%2Fharishchandragad-nashik-trekking-from-mumbai&psig=AOvVaw2JrJ_Wihi0XY-Qyy8DLO3c&ust=1664643488865000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPiVr7D-vPoCFQAAAAAdAAAAABAE",
-        "Language":["Hindi, Marathi, English"],
-        "famousFor":"Harishchandra Fort is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region.",
-        "fascinatingFact":"It's one of the most peaceful and beautiful places in Maharashtra.",
-        "howToReach":" https://goo.gl/maps/eFdmHkvVrYa9kifv9"
+{
+        "id":19,
+        "place":" panhala ",
+        "country":"india",
+        "photo":"https://images.app.goo.gl/bWJHbY2MpkoUyP5T8",
+        "Language":["Marathi"],
+        "famousFor":"beautiful valleys, lush green valleys, rich tribal culture,beautiful fort",
+        "fascinatingFact":"",
+        "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
     }
+
 
 ]
