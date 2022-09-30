@@ -189,7 +189,7 @@
         "famousFor":"reverse waterfall",
         "fascinatingFact":"scenic views",
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
-    }
+    },
      {
        "id":17 ,
         "place":"Dandoba",
@@ -199,6 +199,16 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
+    },
+    {
+       "id":18 ,
+        "place":"Bhilawadi Station",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Findiarailinfo.com%2Fstation%2Fmap%2Fbhilavdi-bvq%2F2242&psig=AOvVaw0WuWTFQAua2SMnbSd3Xorz&ust=1664642721026000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJicw8P7vPoCFQAAAAAdAAAAABAE",
+        "Language":["Marathi"],
+        "famousFor":"Chitale Milk Dairy",
+        "fascinatingFact":"Very good milk Products",
+        "howToReach":"https://www.google.com/maps?q=bhilawadi+railway+station&source=lmns&bih=760&biw=1536&rlz=1C1CHZN_enIN949IN949&hl=en&sa=X&ved=2ahUKEwiB3-TB-7z6AhUXj9gFHSEBAa4Q_AUoAXoECAEQAQ"
     }
 
 ]
