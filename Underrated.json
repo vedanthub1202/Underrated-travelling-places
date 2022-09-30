@@ -65,7 +65,7 @@
         "howToReach":"https://www.beautifulpuglia.com/how-to-get-to-puglia/"   
     },
     {
-        "id":7,
+        "id":7 ,
         "place":"Madagascar",
         "country":"Madagascar",
         "photo":" https://www.istockphoto.com/search/2/image?phrase=madagascar",
@@ -73,6 +73,17 @@
         "famousFor":"Views",
         "fascinatingFact":"Most of Madagascar’s wildlife is found nowhere else on Earth",
         "howToReach":"https://www.thomascook.in/international-tourism/how-to-reach-madagascar"   
+
+    },
+      {
+        "id":8 ,
+        "place":"Radhanagari",
+        "country":"india",
+        "photo":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgNnetsq2O1I8hnkHE7wn2MdCfF3wE7Bp066vze-J5Qg&s",
+        "Language":["marathi"],
+        "famousFor":"nature",
+        "fascinatingFact":"Radhanagari Wildlife Sanctuary",
+        "howToReach":"https://tourism.webindia123.com/tourism/wildlife/nationalpark/Radhanagari_Wildlife_Sanctuary/howtoreach.htm"   
 
     },
         
