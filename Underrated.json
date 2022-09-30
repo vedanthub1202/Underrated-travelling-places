@@ -381,6 +381,16 @@
         "famousFor":"Trecking, Hill station",
         "fascinatingFact":" scenic natural panoramas, huge mountains, ancient caves, temples and forts.",
         "howToReach":"https://www.india.com/travel/karjat/how-to-reach/"   
+    },
+    {
+        "id":55,
+        "place":"Kanchanich Mahal",
+        "country":"India",
+        "photo":"https://d3pc1xvrcw35tl.cloudfront.net/images/240x180/kanchnicha-mahal-mehkar-buldhana_201907270344.jpg",
+        "Language":["Marathi, Hindi"],
+        "famousFor":"story , building",
+        "fascinatingFact":" a intresting story about kanchani",
+        "howToReach":"https://www.makemytrip.com/routeplanner/pune-mehkar.html"   
     }
 
 ]
