@@ -210,5 +210,14 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
-
+{
+    "id":18,
+    "place":"Taj Mahal",
+    "country":"India",
+    "photo":"https://whereverfamily.com/wp-content/uploads/2018/02/dreamstime_m_14026311-e1517592384559.jpg",
+    "Language":[Hindi],
+    "famousFor":"memory of Mumtaj",
+    "fascinatingFact":"seventh wonder in world",
+    "howtoReach":"https://www.google.com/maps/place/Taj+Mahal/@27.1751448,78.0399535,17z/data=!3m1!4b1!4m5!3m4!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422",
+},
 ]
