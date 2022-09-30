@@ -407,7 +407,6 @@
         "fascinatingFact":"",
         "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
     },
-
         {
         "id":37,
         "place":" agashiv hills ",
@@ -471,6 +470,16 @@
     "Language":["Hindi"],
     "fascinatingFact":"memory of Mumtaj Mahal",
     "howToReach":"https://www.google.com/maps/place/Taj+Mahal/@27.1751448,78.0399535,17z/data=!3m1!4b1!4m5!3m4!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422",
-}
+},
 
+    {
+        "id":43,
+        "place":"Chapdoh",
+        "country":"India",
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fd3pc1xvrcw35tl.cloudfront.net%2Fimages%2F686x514%2F21ytph08_202003391494.jpg&imgrefurl=https%3A%2F%2Fwww.lokmat.com%2Fyavatmal%2Fnilona-chapadoh-70-percent-water-yet-city-yavatmal-thirsty%2F&tbnid=mTIWvn6CxfU1-M&vet=12ahUKEwjEjrjxmL36AhVUKbcAHQ6nD04QMygAegQIARA0..i&docid=BG86yCVyfiJk9M&w=686&h=514&q=chadoh%20dam%20yavatmal&ved=2ahUKEwjEjrjxmL36AhVUKbcAHQ6nD04QMygAegQIARA0",
+        "Language":["Marathi"],
+        "famousFor":"Waterfall",
+        "fascinatingFact":"Chapdoh Provides water to almost evry home in yavatmal",
+        "howToReach":"https://www.google.com/maps?q=chadoh+dam+yavatmal&source=lmns&bih=984&biw=1920&hl=en&sa=X&ved=2ahUKEwjEjrjxmL36AhVUKbcAHQ6nD04Q_AUoAXoECAEQAQ"
+    }
 ]
