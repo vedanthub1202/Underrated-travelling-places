@@ -55,7 +55,8 @@
 
     },
     
-    {"id":6,
+    {
+        "id":6,
         "place":"puglia",
         "country":"italy",
         "photo":"https://i.guim.co.uk/img/media/53449f7d9e1d621a03c5078e20d3505e9e28c50d/0_0_4302_2582/master/4302.jpg?width=1300&quality=45&dpr=2&s=none",
@@ -64,9 +65,13 @@
         "fascinatingFact":"The water is so blue that blue seems to be dull",
         "howToReach":"https://www.beautifulpuglia.com/how-to-get-to-puglia/"   
 
+    },
+
     }
+
     
-    {"id":7,
+    {   
+        "id":7,
         "place":"airoli",
         "country":"india",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAiroli_Bridge&psig=AOvVaw0SRHXeAclw91jMExR_ENFi&ust=1664630766564000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDAn4PPvPoCFQAAAAAdAAAAABAD",
@@ -74,9 +79,19 @@
         "famousFor":"Landscapes,seashore",
         "fascinatingFact":"Has the largest mangroves forest in Mumbai",
         "howToReach":"https://moovitapp.com/index/en/public_transit-Airoli-Mumbai-stop_29128045-3732"   
-    }
+    },
     {
         "id":8,
+        "place":"Lonar lake",
+        "country":"india",
+        "photo":" https://images.thrillophilia.com/image/upload/s--5EIFGjmQ--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/047/432/original/Lonar-Crater-1030x642_673655992741443095022.jpg.jpg?1458197535",
+         "Language":["Hindi,Marathi"],
+        "famousFor":"Landscapes,Lake, devotional place",
+        "fascinatingFact":"only lake in India created by meteor",
+        "howToReach":"https://trekraw.com/budget-travel-to-lonar-lake-from-mumbai/"   
+    }
+    {
+        "id":9,
         "place":"Champhai",
         "country":"India",
         "photo":" https://travel-blog.happyeasygo.com/wp-content/uploads/2019/02/Champhai-Mizoram-unexplored-places-in-india.jpg",
@@ -89,7 +104,7 @@
 
     },
     {
-        "id":9,
+        "id":10,
         "place":"Madagascar",
         "country":"Madagascar",
         "photo":" https://www.istockphoto.com/search/2/image?phrase=madagascar",
