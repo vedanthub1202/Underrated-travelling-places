@@ -54,7 +54,6 @@
         "howToReach":"https://www.india.com/travel/gokarna/how-to-reach/"   
 
     },
-    
     {   
         "id":6,
         "place":"puglia",
@@ -81,7 +80,7 @@
         "id":8,
         "place":"Champhai",
         "country":"India",
-        "photo":" https://travel-blog.happyeasygo.com/wp-content/uploads/2019/02/Champhai-Mizoram-unexplored-places-in-india.jpg",
+        "photo":"https://travel-blog.happyeasygo.com/wp-content/uploads/2019/02/Champhai-Mizoram-unexplored-places-in-india.jpg",
         "Language":["Kannada"],
         "famousFor":"Monuments",
         "fascinatingFact":" It is one of the best places for an insight into the rich tribal culture of the state",
@@ -180,18 +179,22 @@
         "fascinatingFact":"a huge crater lake renowned for its bright-blue color and surrounding forests",
         "howToReach":"https://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105054884937303084940.000484a2122598d1532db&ll=40.721242,141.031494&spn=0.291426,0.808868&z=10&output=embed"
     },
+    
         {
        "id":17 ,
         "place":"Naneghat",
         "country":"india",
-        "photo:"https://www.alamy.com/stock-photo/naneghat.html",
+        "photo:"https://www.alamy.com/stock-photo/naneghat.jpg",
         "Language":["indian"],
         "famousFor":"reverse waterfall",
         "fascinatingFact":"scenic views",
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
-    },
+    }
+
+    
      {
-       "id":18,
+       "id":18 ,
+
         "place":"Dandoba",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCg6kXWLzy_M&psig=AOvVaw0zD5RWsoVYMowOAt4LX7ia&ust=1664640966961000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjhi4T1vPoCFQAAAAAdAAAAABAD",
@@ -199,9 +202,9 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
-    },
+        }
+{
 
-    {
        "id":19,
         "place":"Bhilawadi Station",
         "country":"India",
@@ -210,9 +213,10 @@
         "famousFor":"Chitale Milk Dairy",
         "fascinatingFact":"Very good milk Products",
         "howToReach":"https://www.google.com/maps?q=bhilawadi+railway+station&source=lmns&bih=760&biw=1536&rlz=1C1CHZN_enIN949IN949&hl=en&sa=X&ved=2ahUKEwiB3-TB-7z6AhUXj9gFHSEBAa4Q_AUoAXoECAEQAQ"
-    }
+    },
 
-    {
+{
+
         "id":20,
         "place":" Savannah ",
         "country":"Georgia",
@@ -221,9 +225,21 @@
         "famousFor":"Beloved for its romantic architecture, colorful history and ethereal, sphagnum-draped trees, the city is fast adding hotel rooms to accommodate a swell of visitors",
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
-    },
+        },
+        
+        {
+     "id":21,
+        "place":"Harvalem Waterfalls",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.trawell.in%2Fgoa%2Fpanjim%2Farvalem-waterfalls&psig=AOvVaw2JWY17LCvRBsY5GEABpj82&ust=1664645164585000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiHutCEvfoCFQAAAAAdAAAAABAD ",
+        "Language":["English, Hindi,Marathi"],
+        "famousFor":"most famous waterfall in north goa",
+        "fascinatingFact":"well known scenic waterfall with a multi-level viewing area is large during monsoon season",
+        "howToReach":"https://www.google.com/maps/place/Harvalem+Waterfalls/@15.5510768,74.024463,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfbd4c54c04655:0x623633fe068aab4b!8m2!3d15.5510768!4d74.0266517"
+},
+
  {
-        "id":21,
+        "id":22,
         "place":" Goa ",
         "country":"India",
         "photo":"https://www.gettyimages.in/photos/goa-tourist ",
@@ -233,18 +249,21 @@
         "howToReach":" https://www.google.com/maps/dir//Goa/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3bbfba106336b741:0xeaf887ff62f34092!3e0?sa=X&ved=2ahUKEwj8vaGmhL36AhXq-jgGHTHdDkAQ-A96BAhSEAw"
     },
     
-    {
-        "id":21,
-        "place":" El Nicho Waterfalls ",
-        "country":"Cuba",
-        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
-        "Language":["English, Spanish"],
-        "famousFor":"The waterfall is attractive and flows throughout the year, even during the dry season.",
-        "howToReach":" https://www.google.com/maps/place/Cascate+El+nicho/@22.0281425,-80.1335324,17z/data=!3m1!4b1!4m5!3m4!1s0x8f2b20ce1ef24b37:0xe576dbd48cbe30b9!8m2!3d22.0281425!4d-80.1313437?hl=en"
-    },
-    
-    {
-        "id":22,
+             {
+        "id":23,
+        "place":" navegao Band",
+        "country":"india",
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ft207_8mRKKM%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt207_8mRKKM&tbnid=-pE--xOEpitwxM&vet=12ahUKEwi2r7mMjL36AhVgK7cAHSzDDrAQMygAegUIARCOAQ..i&docid=OXa1ZoZuwDLLTM&w=1280&h=720&q=navegaon%20bandh%20dharan%20im&ved=2ahUKEwi2r7mMjL36AhVgK7cAHSzDDrAQMygAegUIARCOAQ",
+        "Language":["marathi ,hindi"],
+        "famousFor":"monkey , water bam ,beautiful valleys, lush green valleys",
+        "fascinatingFact":"best place to see various animals.",
+        "howToReach":"https://goo.gl/maps/8nrSbTwZyCARcRR86"
+},
+
+
+{
+        "id":24,
+
         "place":"Kaas Plateau",
         "country":"India",
         "photo":"https://www.kas.ind.in/creative/upload/kas%2028%20sept%204.png",
@@ -254,7 +273,7 @@
         "howToReach":"https://www.india.com/travel/articles/pune-to-kaas-plateau-how-to-reach-kaas-plateau-from-pune-by-road-3239032/"   
 },
       {
-        "id":23,
+        "id":25,
         "place":" Pokaran ",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
@@ -264,8 +283,166 @@
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
     },
 
-      {
-        "id":24,
+
+    {
+        "id":26,
+        "place":"kolhapur ",
+        "country":"india",
+        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
+        "Language":[" English, marathi,hindi"],
+        "famousFor":"Bird Watching, Hiking,forts,rankala lake,mesuem, Pinterest-worthy waterfalls, Unrivaled natural beauty:*",
+        "fascinatingFact":"Buses are free to use in the capital",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
+    },
+         {
+        "id":27,
+        "place":" Faroe Islands ",
+        "country":"Faroe Islands",
+        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
+        "fascinatingFact":"Buses are free to use in the capital",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
+    },
+
+    
+    {
+    "id"=27,
+    "place":"Paleshwar",
+    "country":"India",
+    "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNQq-jxB67PQ-YRj0o4oWlibGVMyGA2O0olDr8o%3Dw296-h202-n-k-no-v1&imgrefurl=https%3A%2F%2Fwww.google.co.in%2Ftravel%2Fentity%2Fkey%2FChoI4d6D5qfsrpqFARoNL2cvMTFydDFyZmp4chAE&tbnid=err3qpl24J71-M&vet=12ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ..i&docid=AekT0t6z3pMTGM&w=296&h=202&q=paleshwar&ved=2ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ",
+    "Language":["Marathi"],
+    "famousFor":"The dam is situated at 45km away from Kolhapur",
+     "fascinatingFact":"Water Fall and Boating",
+     "how to reach":"https://www.google.com/maps/search/paleshwar/@16.8964562,73.8772799,15.48z"
+},
+
+    {
+        "id":28,
+        "place":" Santorini ",
+        "country":"Greece",
+        "photo":"http://media.cntraveler.com/photos/56556bab659c4b487486611e/master/pass/oia-santorini-greece-cr-alamy.jpg",
+        "Language":["English, Greek"],
+        "famousFor":"The volcanic island in the Aegean Sea is mostly known for its quaint, whitewashed villages atop sheer, rugged cliffs, the brilliantly blue shutters and rooftops mirroring the summer sky.",
+        "fascinatingFact":"Beautiful Island",
+        "howToReach":"https://goo.gl/maps/m9PibiL82WC9PcYM7"
+        },
+        
+        {
+         "id":29,
+        "place":" Khidrapur ",
+        "country":"India",
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.ttravelog.com%2Farticle%2Fimages%2FFB_IMG_1641269641745.jpg&imgrefurl=https%3A%2F%2Fttravelog.com%2Farticles%2Famazing-shri-kopeshwar-temple-khidrapur-cave-kolhapur-district-maharashtra_Bw5.html&tbnid=ulaLRg5u2ErmNM&vet=12ahUKEwjFlf_aib36AhVxidgFHW-QABQQMygDegUIARD0AQ..i&docid=zRgd5zrLHhH1JM&w=765&h=941&q=khidrapur&ved=2ahUKEwjFlf_aib36AhVxidgFHW-QABQQMygDegUIARD0AQ",
+        "Language":["Marathi,hindi"],
+        "famousFor":"Lord Shiva Temple",
+        "fascinatingFact":"sculpyural art",
+        "howToReach":" https://www.google.com/maps/place/Khidrapur,+Maharashtra+416108/@16.6155901,74.6802521,16z/data=!3m1!4b1!4m5!3m4!1s0x3bc0dc00e56f298b:0xfac8eeb8b2e94db1!8m2!3d16.615046!4d74.685418"
+},
+       {
+        "id":30,
+        "place":" himalaya ",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
+        "Language":["Marwadi,tamil, English, Hindi"],
+        "famousFor":"Salamsagar Talab, Pokaran fort , Nuclear",
+        "fascinatingFact":"land of 10 mirages",
+        "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
+    },
+
+
+    {
+        "id":31,
+        "place":" Ecuador ",
+        "country":"Ecuador",
+        "photo":"https://images.squarespace-cdn.com/content/v1/5a87961cbe42d637c54cab93/1607001590210-X9SY24OUONTXUUYZZYLJ/best-places-to-visit-in-ecuador-south-america-travel-guide.jpg?format=1000w",
+        "Language":["English, Spanish"],
+        "famousFor":"Award-winning restaurants,Cuyabeno Wildlife Reserve,powdery beaches,peak of Cotopaxi",
+        "howToReach":"https://www.rome2rio.com/map/Quito-Airport-UIO/Cuyabeno-Wildlife-Reserve "
+    },
+
+    {
+        "id":32,
+        "place":" Lakshadweep",
+        "country":"India",
+        "photo":"https://www.holidify.com/images/bgImages/LAKSHADWEEP-ISLANDS.jpg",
+        "Language":["English", "Hindi","Tamil"],
+        "famousFor":"seashore",
+        "howToReach":"https://lakshadweep.gov.in/how-to-reach/#:~:text=Lakshadweep%20Island%20can%20be%20reached,Airlines%20operate%20flights%20from%20Kochi. "
+    },
+    {
+        "id":33,
+        "place":" narsivhan temple ",
+        "country":"india",
+        "photo":"https://www.google.com/search?q=temple+halshi+vadikarad&tbm=isch&ved=2ahUKEwjM4qevhr36AhUkktgFHe_oAZUQ2-cCegQIABAA&oq=temple+halshi+vadikarad&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQHhAHOgYIABAeEAg6BAgAEBg6CwgAEIAEELEDEIMBOgUIABCABDoECAAQQzoICAAQHhAIEAc6BggAEAoQGDoGCAAQHhAFUOELWIdKYK9MaABwAHgAgAHBAYgB3xiSAQQwLjIxmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=gyg3Y4yVBKSk4t4P79GHqAk&bih=571&biw=1229&rlz=1C1FKPE_enIN974IN974"
+        "Language":["India"],
+        "famousFor":"ancient structure and arts",
+        "fascinatingFact":"the designing on the huge rocks",
+        "howToReach":" https://goo.gl/maps/XSDPBx2hqwkApJZz8"
+    },
+    {
+        "id":34,
+        "place":"Karjat hills",
+        "country":"India",
+        "photo":"https://www.hillstationboss.com/karjat/",
+        "Language":["Marathi, Hindi"],
+        "famousFor":"Trecking, Hill station",
+        "fascinatingFact":" scenic natural panoramas, huge mountains, ancient caves, temples and forts.",
+        "howToReach":"https://www.india.com/travel/karjat/how-to-reach/"   
+    },
+    
+    {
+        "id":35,
+        "place":" Tarkarli ",
+        "country":"India",
+        "photo":"https://www.shutterstock.com/search/tarkarli-beach",
+        "Language":["English, Hindi, Marathi"],
+        "famousFor":"Known for its white sandy beach and water sports, Tarkarli is situated in the Sindhudurg district of Maharashtra. Tarkarli beach is arguably one of the most picturesque beaches in the Konkan region of Maharashtra.",
+        "fascinatingFact":"Tarkarli is a village in Malvan taluka in Sindhudurg district in the Indian state of Maharashtra. ",
+        "howToReach":"https://www.google.com/maps?q=fact+about+tarkarli+map&sxsrf=ALiCzsY2Fm6DnXeCKbg0gOA-AQftCxWOTg:1664560361112&uact=5&gs_lp=Egdnd3Mtd2l6uAED-AEBMgcQIRigARgKMgcQIRigARgKwgIKEAAYRxjWBBiwA8ICCBAAGB4YDRgFwgIFEAAYhgOQBghI0g1QzQVYswtwAXgByAEAkAEAmAGyAaAB4wSqAQMwLjTiAwQgQRgA4gMEIEYYAIgGAQ&um=1&ie=UTF-8&sa=X&ved=2ahUKEwju9frair36AhWBHXAKHVi_CysQ_AUoA3oECAEQBQ"
+    },
+    {
+            "id":36,
+        "place":" panhala ",
+        "country":"india",
+        "photo":"https://images.app.goo.gl/bWJHbY2MpkoUyP5T8",
+        "Language":["Marathi"],
+        "famousFor":"beautiful valleys, lush green valleys, rich tribal culture,beautiful fort",
+        "fascinatingFact":"",
+        "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
+    },
+
+        {
+        "id":37,
+        "place":" agashiv hills ",
+        "country":"india",
+        "photo":"https://www.google.com/search?q=agashiv+hillskarad&tbm=isch&ved=2ahUKEwj20vqvhL36AhVjgGMGHXNzBUIQ2-cCegQIABAA&oq=agashiv+hillskarad&gs_lcp=CgNpbWcQAzIICAAQHhAIEAc6BAgjECc6BAgAEEM6CwgAEIAEELEDEIMBOgUIABCABDoGCAAQHhAHOgYIABAeEAg6BAgAEBhQyyFYjkVg3kZoAHAAeACAAagBiAGsE5IBBDAuMTeYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=ayY3Y7bxIeOAjuMP8-aVkAQ&bih=571&biw=1229&rlz=1C1FKPE_enIN974IN974"
+        "Language":["marathi
+        "famousFor":"nature and greenery
+        "fascinatingFact":"shivas temple at top of hill"
+        "howToReach":" https://goo.gl/maps/y1WEJ3CCAGSmGJsbA"
+        },
+           
+           {
+        "id":38,
+        "place":" Ziro ",
+        "country":"India",
+        "photo":"https://www.tripadvisor.in/Tourism-g2282331-Ziro_Lower_Subansiri_District_Arunachal_Pradesh-Vacations.html",
+        "Language":["Marathi"],
+        "famousFor":"Talley Valley Wildlife Sanctuary, Dolo Mando, Tarin Fish Farm",
+        "fascinatingFact":"This is a beautiful and laid-back place in the North-east side of India which is known to be a home to a unique tribal group.",
+        "howToReach":"https://www.google.com/maps?q=ziro+india&rlz=1C1GCEJ_enIN964IN964&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj_89KSmb36AhXEyDgGHRWeAL8Q_AUoAnoECAMQBA"
+    },
+        {
+        "id":39,
+        "place":"Seven Sister Hills",
+        "country":"India",
+        "photo":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APerjagadh_Seven_Sisters_Hills_5.jpg&psig=AOvVaw2S5QLIW6onzeR7pnpEjDv2&ust=1664648821794000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPD15qaSvfoCFQAAAAAdAAAAABAD ",
+        "Language":["HINDI"],
+        "famousFor":"Mountains",
+        "fascinatingFact":"beautiful views",
+        "howToReach":" https://www.google.com/maps/place/Seven+Sisters+Hill,+Perjagadh/@20.5095625,79.5749988,17z/data=!3m1!4b1!4m5!3m4!1s0x3a2cba11352d8159:0x9cfded984f9e7bb6!8m2!3d20.5095625!4d79.5771875 "   
+    },
+    
+          {
+        "id":40,
         "place":" walchand college  ",
         "country":"India",
         "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.collegepravesh.com%2F2017%2F05%2FWCE-Sangli.jpg&imgrefurl=https%3A%2F%2Fwww.collegepravesh.com%2Fengineering-colleges%2Fwce-sangli%2F&tbnid=9vxg6c2SI-V5YM&vet=12ahUKEwig_OrNj736AhUMKbcAHUzMCNIQMygAegUIARC8AQ..i&docid=uAWOagwPqNiTuM&w=660&h=330&q=wce&hl=en&ved=2ahUKEwig_OrNj736AhUMKbcAHUzMCNIQMygAegUIARC8AQ",
@@ -273,9 +450,7 @@
         "famousFor":"torture",
         "fascinatingFact":"placement",
         "howToReach":" https://www.google.com/maps/place/Walchand+College+of+Engineering/@16.8457387,74.5684985,14z/data=!4m9!1m2!2m1!1swce!3m5!1s0x3bc1237f52c65db5:0xa3535676176ded0a!8m2!3d16.8457387!4d74.6014575!15sCgN3Y2VaBSIDd2NlkgESZW5naW5lZXJpbmdfc2Nob29smgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVF5YTB4TWRWQjNFQUXgAQA?hl=en"
-    },
-
-
+    }
     
     
 ]
