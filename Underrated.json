@@ -587,6 +587,16 @@
         "howToReach":"https://www.india.com/travel/karjat/how-to-reach/"   
     },
     {
+        "id":34,
+        "place":" Dhumnapur ",
+        "country":"india",
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flh3.googleusercontent.com%2Fp%2FAF1QipOkVXR1l7Cvt-4sIs25LVz5jGQoGi4AlLkyAPlE%3Ds1600-w400&imgrefurl=https%3A%2F%2Fyaharisnails.com%2Fen%2FIN%2Fshree-hanuman-mandir-dhumnapur-p1707010&tbnid=EUTJmp7LwjiFLM&vet=12ahUKEwikqJG1lr36AhUY7nMBHSCFDbUQMygCegQIARA1..i&docid=oT2WnX1d3DiXxM&w=400&h=300&q=dhumnapur&ved=2ahUKEwikqJG1lr36AhUY7nMBHSCFDbUQMygCegQIARA1"
+        "Language":["Marathi"],
+        "famousFor":"Old temple",
+        "fascinatingFact":"shivlinga",
+        "howToReach":"https://www.google.com/maps/dir/16.8541991,74.6048946/dhumnapur/@18.6578655,74.1143136,7z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3bd3e5d7d8aee9f3:0xbfbf21d83f206f42!2m2!1d78.0748093!2d20.3959494?hl=en"
+    },
+{
         "id":55,
         "place":"Kanchanich Mahal",
         "country":"India",
