@@ -211,4 +211,15 @@
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
 
+      {
+        "id":18,
+        "place":" Pokaran ",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
+        "Language":["Marwadi, English, Hindi"],
+        "famousFor":"Salamsagar Talab, Pokaran fort , Nuclear",
+        "fascinatingFact":"land of 5 mirages",
+        "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
+    },
+
 ]
