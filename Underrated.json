@@ -491,7 +491,10 @@
         "famousFor":"Ganpati Temple",
         "fascinatingFact":"senic view of krishna river and ganapati darshan",
         "howToReach":"https://www.google.co.in/search?q=sangli+ganapati+mandir&btnK=Google+Search&sxsrf=ALeKk00YbAxo6IkkQAAKDm9B87-Uqn5-fA%3A1625967546708&source=hp&ei=ukvqYNvjJ8aJoASNxoyQDQ&iflsig=AINFCbYAAAAAYOpZyibPbvMK9JwmaKP5L0JCbwFheDPR&oq=oyo+rooms+leaked+footage&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjEOoCECc6BwguEOoCECc6BAgjECc6CAgAELEDEIMBOhEILhCxAxCDARDHARCjAhCTAjoCCAA6BQguELEDOggILhDHARCvAToFCAAQsQM6CAguELEDEIMBOhQILhCxAxCDARDHARCjAhDJAxCTAjoFCAAQkgM6BQgAEMkDOgYIABAWEB46AggmOggIIRAWEB0QHlD-HVjnfGCKgQFoAXAAeACAAesCiAHeIJIBCDAuMjIuMS4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=gws-wiz&ved=0ahUKEwjbqKOQ8dnxAhXGBIgKHQ0jA9IQ4dUDCAc&uact=5#"
-    },
+
+    }
+
+
 
         {
     "id"=45,
@@ -533,9 +536,19 @@
         "famousFor":"Cosmopolitan Feel",
         "fascinatingFact":"Calgary, a city with a cosmopolitan feel and a rural heritage, is located in the foothills of the Canadian Rockies. While some only visit to experience the famous mountains, there's much more to do — whether you're taking in an exhibit at the Glenbow Museum, which specializes in art and artifacts from Western Canada, or checking out the local foodie scene at the Calgary Farmers' Market.",
         "howToReach":"https://www.google.com/maps/place/Calgary,+AB,+Canada/@51.0272883,-114.3680132,10z/data=!3m1!4b1!4m5!3m4!1s0x537170039f843fd5:0x266d3bb1b652b63a!8m2!3d51.0447331!4d-114.0718831?hl=en"
-    },
+   },
+   {
+       "id":49,
+       "place":"Hulunbuir Grasslands, Inner Mongolia",
+        "country":"China",
+        "photo":"https://i.pinimg.com/originals/60/c2/18/60c218a598f20912ca66b1c373c6bbed.jpg",
+        "Language":["Chinese"]
+        "famousFor":"Grasslands",
+        "fascinatingFact":"natural grassland coverage of about 80%. Its lush plants, unpolluted air, flocks and herds, unique ethnic culture, and Genghis Khan history fascinate and attract people for a visit.",
+        "howToReach":"https://www.bing.com/maps?q=Hulunbuir+Grasslands%2c+Inner+Mongolia&FORM=HDRSC4"
+   },
      {
-        "id":49,
+        "id":50,
         "place":" Kaas Plateau ",
         "country":"India",
         "photo":"https:"https://www.google.com/search?q=kaas+plateau&sxsrf=ALiCzsYCxOERZL83Lq6QJYGHzCYfuWQFmQ:1664562442660&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiLp-eokr36AhXyTmwGHWc_CqoQ_AUoAXoECAMQAw&biw=1366&bih=671&dpr=1#imgrc=swKNZmD-EQZOnM ",
@@ -544,8 +557,33 @@
         "fascinatingFact":" more than 150 or more types of flowers, shrubs and grasses.",
         "howToReach":"https://www.google.com/maps/place/Kaas+plateau/@17.7181415,73.8221812,15z/data=!3m1!4b1!4m5!3m4!1s0x3bc2156bb1b31937:0xa05920673b65bbde!8m2!3d17.7208314!4d73.8237159!5m1!1e4?hl=kn"
     },
-    {
-        "id":50,
+
+
+
+    },
+       {
+        "id":51,
+        "place":"Ziro Valley – Arunachal Pradesh",
+        "country":"India",
+        "photo":"https://assets.traveltriangle.com/blog/wp-content/uploads/2015/09/Ziro-Valley-400x264.jpg",
+        "Language":["Hindi"],
+        "famousFor":"Ziro Festival of Music ",
+        "fascinatingFact":"Lush rice fields, gurgling rivers and picture-postcard villages of the Apatani tribe",
+        "howToReach":"Take a bus or shared taxi from Bomdila or Tezpur (also worth checking out). You could also get a cab from either of the points and go directly to Ziro"
+}
+      {
+        "id":52,
+        "place":"Chopta, Uttarakhand",
+        "country":"India",
+        "photo":"https://assets.traveltriangle.com/blog/wp-content/uploads/2016/09/A-winter-snap-of-the-snowcapped-Himalayas-and-the-Tungnath-Temple-in-Chopta.jpg",
+        "Language":["Hindi"],
+        "famousFor":"Tungnath Mandir and Picturesque Snow-capped Mountains",
+        "fascinatingFact":"From the top, you can see the Himalayan Range",
+        "howToReach":"https://www.google.com/maps/place/Tungnath/@30.4886998,79.2170211,15z/data=!4m2!3m1!1s0x0:0xc9d695bd8994120a?sa=X&hl=en&ved=2ahUKEwiT0MHDo736AhW57zgGHTDzCPMQ_BJ6BQiGARAF"
+
+    },
+        {
+        "id":53,
         "place":" shree Dwarkadhish Temple, Mathura",
         "country":"India",
         "photo":" https://www.google.com/imgres?imgurl=https%3A%2F%2Fnavbharattimes.indiatimes.com%2Fphoto%2Fmsid-84288331%2Cimgsize-150586%2Fpic.jpg&imgrefurl=https%3A%2F%2Fnavbharattimes.indiatimes.com%2Ftravel%2Freligious-trip%2Ftemples-in-mathura-vrindavan-in-hindi%2Farticleshow%2F84288331.cms&tbnid=2V04Jdu5p6ucaM&vet=12ahUKEwiXquKEpb36AhVI_jgGHQR-DHwQMygAegUIARDHAQ..i&docid=teX5oYQn5lcvNM&w=1200&h=900&q=mathura%20up%20temple&ved=2ahUKEwiXquKEpb36AhVI_jgGHQR-DHwQMygAegUIARDHAQ",
@@ -553,7 +591,7 @@
         "famousFor":"Shri Krishna Temple",
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":"https://mathura.nic.in/how-to-reach/"
-    },
+    }
 
 
 ]
