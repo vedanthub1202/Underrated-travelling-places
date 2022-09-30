@@ -189,10 +189,12 @@
         "famousFor":"reverse waterfall",
         "fascinatingFact":"scenic views",
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
-    },
+    }
+
     
      {
        "id":18 ,
+
         "place":"Dandoba",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCg6kXWLzy_M&psig=AOvVaw0zD5RWsoVYMowOAt4LX7ia&ust=1664640966961000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjhi4T1vPoCFQAAAAAdAAAAABAD",
@@ -200,7 +202,7 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
-        },
+        }
 {
 
        "id":19,
@@ -253,15 +255,17 @@
         "fascinatingFact":" Asia’s Only Naval Aviation Museum is at Goa",
         "howToReach":" https://www.google.com/maps/dir//Goa/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3bbfba106336b741:0xeaf887ff62f34092!3e0?sa=X&ved=2ahUKEwj8vaGmhL36AhXq-jgGHTHdDkAQ-A96BAhSEAw"
     },
-    {
+    
+             {
         "id":23,
-        "place":" El Nicho Waterfalls ",
-        "country":"Cuba",
-        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
-        "Language":["English, Spanish"],
-        "famousFor":"The waterfall is attractive and flows throughout the year, even during the dry season.",
-        "howToReach":" https://www.google.com/maps/place/Cascate+El+nicho/@22.0281425,-80.1335324,17z/data=!3m1!4b1!4m5!3m4!1s0x8f2b20ce1ef24b37:0xe576dbd48cbe30b9!8m2!3d22.0281425!4d-80.1313437?hl=en"
-    },
+        "place":" navegao Band",
+        "country":"india",
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2Ft207_8mRKKM%2Fmaxresdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dt207_8mRKKM&tbnid=-pE--xOEpitwxM&vet=12ahUKEwi2r7mMjL36AhVgK7cAHSzDDrAQMygAegUIARCOAQ..i&docid=OXa1ZoZuwDLLTM&w=1280&h=720&q=navegaon%20bandh%20dharan%20im&ved=2ahUKEwi2r7mMjL36AhVgK7cAHSzDDrAQMygAegUIARCOAQ",
+        "Language":["marathi ,hindi"],
+        "famousFor":"monkey , water bam ,beautiful valleys, lush green valleys",
+        "fascinatingFact":"best place to see various animals.",
+        "howToReach":"https://goo.gl/maps/8nrSbTwZyCARcRR86"
+},
 
 
 {
@@ -342,6 +346,7 @@
     },
 
 
+
     {
         "id":31,
         "place":" Ecuador ",
@@ -350,7 +355,6 @@
         "Language":["English, Spanish"],
         "famousFor":"Award-winning restaurants,Cuyabeno Wildlife Reserve,powdery beaches,peak of Cotopaxi",
         "howToReach":"https://www.rome2rio.com/map/Quito-Airport-UIO/Cuyabeno-Wildlife-Reserve "
-
     },
 
     {
@@ -403,16 +407,6 @@
         "fascinatingFact":"",
         "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
     },
-    {
-        "id":39,
-        "place":"Chapdoh",
-        "country":"India",
-        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fd3pc1xvrcw35tl.cloudfront.net%2Fimages%2F686x514%2F21ytph08_202003391494.jpg&imgrefurl=https%3A%2F%2Fwww.lokmat.com%2Fyavatmal%2Fnilona-chapadoh-70-percent-water-yet-city-yavatmal-thirsty%2F&tbnid=mTIWvn6CxfU1-M&vet=12ahUKEwjEjrjxmL36AhVUKbcAHQ6nD04QMygAegQIARA0..i&docid=BG86yCVyfiJk9M&w=686&h=514&q=chadoh%20dam%20yavatmal&ved=2ahUKEwjEjrjxmL36AhVUKbcAHQ6nD04QMygAegQIARA0",
-        "Language":["Marathi"],
-        "famousFor":"Waterfall",
-        "fascinatingFact":"Chapdoh Provides water to almost evry home in yavatmal",
-        "howToReach":"https://www.google.com/maps?q=chadoh+dam+yavatmal&source=lmns&bih=984&biw=1920&hl=en&sa=X&ved=2ahUKEwjEjrjxmL36AhVUKbcAHQ6nD04Q_AUoAXoECAEQAQ"
-    }, 
         {
         "id":37,
         "place":" agashiv hills ",
@@ -422,5 +416,70 @@
         "famousFor":"nature and greenery
         "fascinatingFact":"shivas temple at top of hill"
         "howToReach":" https://goo.gl/maps/y1WEJ3CCAGSmGJsbA"
-        },
+        }
+           
+           {
+        "id":38,
+        "place":" Ziro ",
+        "country":"India",
+        "photo":"https://www.tripadvisor.in/Tourism-g2282331-Ziro_Lower_Subansiri_District_Arunachal_Pradesh-Vacations.html",
+        "Language":["Marathi"],
+        "famousFor":"Talley Valley Wildlife Sanctuary, Dolo Mando, Tarin Fish Farm",
+        "fascinatingFact":"This is a beautiful and laid-back place in the North-east side of India which is known to be a home to a unique tribal group.",
+        "howToReach":"https://www.google.com/maps?q=ziro+india&rlz=1C1GCEJ_enIN964IN964&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj_89KSmb36AhXEyDgGHRWeAL8Q_AUoAnoECAMQBA"
+    },
+
+        {
+        "id":39,
+        "place":"Seven Sister Hills",
+        "country":"India",
+        "photo":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APerjagadh_Seven_Sisters_Hills_5.jpg&psig=AOvVaw2S5QLIW6onzeR7pnpEjDv2&ust=1664648821794000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPD15qaSvfoCFQAAAAAdAAAAABAD ",
+        "Language":["HINDI"],
+        "famousFor":"Mountains",
+        "fascinatingFact":"beautiful views",
+        "howToReach":" https://www.google.com/maps/place/Seven+Sisters+Hill,+Perjagadh/@20.5095625,79.5749988,17z/data=!3m1!4b1!4m5!3m4!1s0x3a2cba11352d8159:0x9cfded984f9e7bb6!8m2!3d20.5095625!4d79.5771875 "   
+    },
+    
+          {
+        "id":40,
+        "place":" walchand college  ",
+        "country":"India",
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.collegepravesh.com%2F2017%2F05%2FWCE-Sangli.jpg&imgrefurl=https%3A%2F%2Fwww.collegepravesh.com%2Fengineering-colleges%2Fwce-sangli%2F&tbnid=9vxg6c2SI-V5YM&vet=12ahUKEwig_OrNj736AhUMKbcAHUzMCNIQMygAegUIARC8AQ..i&docid=uAWOagwPqNiTuM&w=660&h=330&q=wce&hl=en&ved=2ahUKEwig_OrNj736AhUMKbcAHUzMCNIQMygAegUIARC8AQ",
+        "Language":["Marathi, English, Hindi"],
+        "famousFor":"torture",
+        "fascinatingFact":"placement",
+        "howToReach":" https://www.google.com/maps/place/Walchand+College+of+Engineering/@16.8457387,74.5684985,14z/data=!4m9!1m2!2m1!1swce!3m5!1s0x3bc1237f52c65db5:0xa3535676176ded0a!8m2!3d16.8457387!4d74.6014575!15sCgN3Y2VaBSIDd2NlkgESZW5naW5lZXJpbmdfc2Nob29smgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVF5YTB4TWRWQjNFQUXgAQA?hl=en"
+    },
+    
+        {           
+        "id":41,
+        "place":" Kanheri Caves",
+        "country":"India",
+        "photo":"https://www.google.com/maps/uv?pb=!1s0x3be7b9e6e177d16d%3A0xf5677ab36922b95f!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP4IWWuvq7lSIA20au0EkUtuhXcq10vYmEN4HWw%3Dw213-h160-k-no!5skanheri%20caves%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipP4IWWuvq7lSIA20au0EkUtuhXcq10vYmEN4HWw&hl=en&sa=X&ved=2ahUKEwigzK2Fk736AhXvcGwGHeWtBisQoip6BQiPARAD",
+        "Language":["Marathi,hindi"],
+        "famousFor":"Caves and Rock Cut Moments",
+        "fascinatingFact":"sculpyural art",
+        "howToReach":"https://www.google.com/maps/place/Kanheri+Caves/@19.2058509,72.9068504,15z/data=!4m2!3m1!1s0x0:0xf5677ab36922b95f?sa=X&ved=2ahUKEwi62rKuk736AhU_T2wGHQpEC7AQ_BJ6BQiNARAF"
+},
+    
+    {
+    "id":42,
+    "place":"Taj Mahal",
+    "country":"India",
+    "photo":"https://lp-cms-production.imgix.net/news/2018/01/taj-mahal-visitor-limits.jpg?w=1200&sharp=10&vib=20",
+    "Language":["Hindi"],
+    "fascinatingFact":"memory of Mumtaj Mahal",
+    "howToReach":"https://www.google.com/maps/place/Taj+Mahal/@27.1751448,78.0399535,17z/data=!3m1!4b1!4m5!3m4!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422",
+},
+
+    {
+        "id":43,
+        "place":"Chapdoh",
+        "country":"India",
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fd3pc1xvrcw35tl.cloudfront.net%2Fimages%2F686x514%2F21ytph08_202003391494.jpg&imgrefurl=https%3A%2F%2Fwww.lokmat.com%2Fyavatmal%2Fnilona-chapadoh-70-percent-water-yet-city-yavatmal-thirsty%2F&tbnid=mTIWvn6CxfU1-M&vet=12ahUKEwjEjrjxmL36AhVUKbcAHQ6nD04QMygAegQIARA0..i&docid=BG86yCVyfiJk9M&w=686&h=514&q=chadoh%20dam%20yavatmal&ved=2ahUKEwjEjrjxmL36AhVUKbcAHQ6nD04QMygAegQIARA0",
+        "Language":["Marathi"],
+        "famousFor":"Waterfall",
+        "fascinatingFact":"Chapdoh Provides water to almost evry home in yavatmal",
+        "howToReach":"https://www.google.com/maps?q=chadoh+dam+yavatmal&source=lmns&bih=984&biw=1920&hl=en&sa=X&ved=2ahUKEwjEjrjxmL36AhVUKbcAHQ6nD04Q_AUoAXoECAEQAQ"
+    }
 ]
