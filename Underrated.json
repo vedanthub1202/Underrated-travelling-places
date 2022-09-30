@@ -400,5 +400,15 @@
         "famousFor":"beautiful valleys, lush green valleys, rich tribal culture,beautiful fort",
         "fascinatingFact":"",
         "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
+    },
+    {
+        "id":37,
+        "place":" Ziro ",
+        "country":"India",
+        "photo":"https://www.tripadvisor.in/Tourism-g2282331-Ziro_Lower_Subansiri_District_Arunachal_Pradesh-Vacations.html",
+        "Language":["Marathi"],
+        "famousFor":"Talley Valley Wildlife Sanctuary, Dolo Mando, Tarin Fish Farm",
+        "fascinatingFact":"This is a beautiful and laid-back place in the North-east side of India which is known to be a home to a unique tribal group.",
+        "howToReach":"https://www.google.com/maps?q=ziro+india&rlz=1C1GCEJ_enIN964IN964&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj_89KSmb36AhXEyDgGHRWeAL8Q_AUoAnoECAMQBA"
     }
 ]
