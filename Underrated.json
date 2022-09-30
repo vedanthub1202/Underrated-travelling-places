@@ -55,7 +55,7 @@
 
     },
     
-    {
+    {   
         "id":6,
         "place":"puglia",
         "country":"italy",
@@ -65,11 +65,9 @@
         "fascinatingFact":"The water is so blue that blue seems to be dull",
         "howToReach":"https://www.beautifulpuglia.com/how-to-get-to-puglia/"   
 
-    },
-
+    }
     
-    
-    {   
+    {
         "id":7,
         "place":"airoli",
         "country":"india",
@@ -78,19 +76,9 @@
         "famousFor":"Landscapes,seashore",
         "fascinatingFact":"Has the largest mangroves forest in Mumbai",
         "howToReach":"https://moovitapp.com/index/en/public_transit-Airoli-Mumbai-stop_29128045-3732"   
-    },
-    {
-        "id":8,
-        "place":"Lonar lake",
-        "country":"india",
-        "photo":" https://images.thrillophilia.com/image/upload/s--5EIFGjmQ--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/047/432/original/Lonar-Crater-1030x642_673655992741443095022.jpg.jpg?1458197535",
-         "Language":["Hindi,Marathi"],
-        "famousFor":"Landscapes,Lake, devotional place",
-        "fascinatingFact":"only lake in India created by meteor",
-        "howToReach":"https://trekraw.com/budget-travel-to-lonar-lake-from-mumbai/"   
     }
     {
-        "id":9,
+        "id":8,
         "place":"Champhai",
         "country":"India",
         "photo":" https://travel-blog.happyeasygo.com/wp-content/uploads/2019/02/Champhai-Mizoram-unexplored-places-in-india.jpg",
@@ -102,7 +90,7 @@
     },
 
     {
-        "id":10,
+        "id":9,
         "place":"Madagascar",
         "country":"Madagascar",
         "photo":" https://www.istockphoto.com/search/2/image?phrase=madagascar",
@@ -110,7 +98,17 @@
         "famousFor":"Views",
         "fascinatingFact":"Most of Madagascar’s wildlife is found nowhere else on Earth",
         "howToReach":"https://www.thomascook.in/international-tourism/how-to-reach-madagascar"   
+       
+       },
+        {
+        "id":10,
+        "place":"Bahu plaza",
+        "country":"India",
+        "photo":" https://im.hunt.in/cg/jammu/City-Guide/bahu.jpg",
+        "Language":["hindi"],
+        "famousFor":"eating",
+        "fascinatingFact":"have delicoius food",
+        "howToReach":"By car bus or taxi "   
 
     }
-        
 ]
