@@ -254,6 +254,7 @@
         "howToReach":" https://www.google.com/maps/dir//Goa/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3bbfba106336b741:0xeaf887ff62f34092!3e0?sa=X&ved=2ahUKEwj8vaGmhL36AhXq-jgGHTHdDkAQ-A96BAhSEAw"
     },
     
+
     {
         "id":23,
         "place":" El Nicho Waterfalls ",
@@ -263,9 +264,11 @@
         "famousFor":"The waterfall is attractive and flows throughout the year, even during the dry season.",
         "howToReach":" https://www.google.com/maps/place/Cascate+El+nicho/@22.0281425,-80.1335324,17z/data=!3m1!4b1!4m5!3m4!1s0x8f2b20ce1ef24b37:0xe576dbd48cbe30b9!8m2!3d22.0281425!4d-80.1313437?hl=en"
     },
-    
-    {
+
+
+{
         "id":24,
+
         "place":"Kaas Plateau",
         "country":"India",
         "photo":"https://www.kas.ind.in/creative/upload/kas%2028%20sept%204.png",
@@ -332,7 +335,7 @@
         "howToReach":" https://www.google.com/maps/place/Khidrapur,+Maharashtra+416108/@16.6155901,74.6802521,16z/data=!3m1!4b1!4m5!3m4!1s0x3bc0dc00e56f298b:0xfac8eeb8b2e94db1!8m2!3d16.615046!4d74.685418"
 },
        {
-        "id":24,
+        "id":30,
         "place":" himalaya ",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
@@ -342,5 +345,17 @@
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
     }
 
+
+    {
+
+
+        "id":31,
+        "place":" Ecuador ",
+        "country":"Ecuador",
+        "photo":"https://images.squarespace-cdn.com/content/v1/5a87961cbe42d637c54cab93/1607001590210-X9SY24OUONTXUUYZZYLJ/best-places-to-visit-in-ecuador-south-america-travel-guide.jpg?format=1000w",
+        "Language":["English, Spanish"],
+        "famousFor":"Award-winning restaurants,Cuyabeno Wildlife Reserve,powdery beaches,peak of Cotopaxi",
+        "howToReach":"https://www.rome2rio.com/map/Quito-Airport-UIO/Cuyabeno-Wildlife-Reserve "
+    },
 
 ]
