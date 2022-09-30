@@ -54,7 +54,6 @@
         "howToReach":"https://www.india.com/travel/gokarna/how-to-reach/"   
 
     },
-    
     {   
         "id":6,
         "place":"puglia",
@@ -270,5 +269,15 @@
         "famousFor":"Salamsagar Talab, Pokaran fort , Nuclear",
         "fascinatingFact":"land of 5 mirages",
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
+    },
+    {
+        "id":29,
+        "place":"Karjat hills",
+        "country":"India",
+        "photo":"https://www.hillstationboss.com/karjat/",
+        "Language":["Marathi, Hindi"],
+        "famousFor":"Trecking, Hill station",
+        "fascinatingFact":" scenic natural panoramas, huge mountains, ancient caves, temples and forts.",
+        "howToReach":"https://www.india.com/travel/karjat/how-to-reach/"   
     }
 ]
