@@ -74,4 +74,15 @@
         "fascinatingFact":"Has the largest mangroves forest in Mumbai",
         "howToReach":"https://moovitapp.com/index/en/public_transit-Airoli-Mumbai-stop_29128045-3732"   
     }
+    {
+        "id":8,
+        "place":"Champhai",
+        "country":"India",
+        "photo":" https://travel-blog.happyeasygo.com/wp-content/uploads/2019/02/Champhai-Mizoram-unexplored-places-in-india.jpg",
+        "Language":["Kannada"],
+        "famousFor":"Monuments",
+        "fascinatingFact":" It is one of the best places for an insight into the rich tribal culture of the state",
+        "howToReach":"https://goo.gl/maps/Vd15RayxtdNusTwG7"   
+
+    },
 ]
