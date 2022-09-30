@@ -297,7 +297,17 @@
     "famousFor":"The dam is situated at 45km away from Kolhapur",
      "fascinatingFact":"Water Fall and Boating",
      "how to reach":"https://www.google.com/maps/search/paleshwar/@16.8964562,73.8772799,15.48z"
-}
+},
+ {
+        "id":15,
+        "place":" Kaas Plateau ",
+        "country":"India",
+        "photo":"https:"https://www.google.com/search?q=kaas+plateau&sxsrf=ALiCzsYCxOERZL83Lq6QJYGHzCYfuWQFmQ:1664562442660&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiLp-eokr36AhXyTmwGHWc_CqoQ_AUoAXoECAMQAw&biw=1366&bih=671&dpr=1#imgrc=swKNZmD-EQZOnM ",
+        "Language":["Marathi, English, Hindi"],
+        "famousFor":"overwhelming carpets of flowers which come alive by the fag end of the monsoons",
+        "fascinatingFact":" more than 150 or more types of flowers, shrubs and grasses.",
+        "howToReach":"https://www.google.com/maps/place/Kaas+plateau/@17.7181415,73.8221812,15z/data=!3m1!4b1!4m5!3m4!1s0x3bc2156bb1b31937:0xa05920673b65bbde!8m2!3d17.7208314!4d73.8237159!5m1!1e4?hl=kn"
+    },
 
 
 ]
