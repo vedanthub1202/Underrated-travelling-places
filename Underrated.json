@@ -357,5 +357,15 @@
         "famousFor":"Award-winning restaurants,Cuyabeno Wildlife Reserve,powdery beaches,peak of Cotopaxi",
         "howToReach":"https://www.rome2rio.com/map/Quito-Airport-UIO/Cuyabeno-Wildlife-Reserve "
     },
+     {
+        "id":18,
+        "place":" narsivhan temple ",
+        "country":"india",
+        "photo":"https://www.google.com/search?q=temple+halshi+vadikarad&tbm=isch&ved=2ahUKEwjM4qevhr36AhUkktgFHe_oAZUQ2-cCegQIABAA&oq=temple+halshi+vadikarad&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQHhAHOgYIABAeEAg6BAgAEBg6CwgAEIAEELEDEIMBOgUIABCABDoECAAQQzoICAAQHhAIEAc6BggAEAoQGDoGCAAQHhAFUOELWIdKYK9MaABwAHgAgAHBAYgB3xiSAQQwLjIxmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=gyg3Y4yVBKSk4t4P79GHqAk&bih=571&biw=1229&rlz=1C1FKPE_enIN974IN974"
+        "Language":["India"],
+        "famousFor":"ancient structure and arts",
+        "fascinatingFact":"the designing on the huge rocks",
+        "howToReach":" https://goo.gl/maps/XSDPBx2hqwkApJZz8"
+    },
 
 ]
