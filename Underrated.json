@@ -367,6 +367,16 @@
         "fascinatingFact":"land of 5 mirages",
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
     },
+{
+        "id":24,
+        "place":" Hampi",
+        "country":"India,Karnataka",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
+        "Language":["Kannada, English, Hindi"],
+        "famousFor":"Creative temples",
+        "fascinatingFact":"land of 5 mirages",
+        "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
+    },
     {
         "id":18,
         "place":" Jaipur ",
@@ -377,9 +387,6 @@
         "fascinatingFact":"home to all the modern amenities with some of the most exotic hotels and resorts in the world.",
         "howToReach":" https://goo.gl/maps/U7JCux6wMbF9pB3p8"
     },
-
-
-
 
     {
         "id":26,
@@ -712,7 +719,5 @@
 
 
     }
-
-
 
 ]
