@@ -222,8 +222,22 @@
         "howToReach":"https://www.google.com/maps?q=bhilawadi+railway+station&source=lmns&bih=760&biw=1536&rlz=1C1CHZN_enIN949IN949&hl=en&sa=X&ved=2ahUKEwiB3-TB-7z6AhUXj9gFHSEBAa4Q_AUoAXoECAEQAQ"
     }
 
+     {
+        "id":21 ,
+        "place":"sagreshwar",
+        "country":"india",
+        "photo":" https://www.google.com/maps/uv?pb=!1s0x3bc171878137a82d:0xfe73b498e66ec60d!3m1!7e115!4shttps://lh5.googleusercontent.com/p/AF1QipM-3zbWh1om-HyFdyZa_J_1e5MIOuQQLsTth_hC%3Dw266-h200-k-no!5ssagreshwar+-+Google+Search!15zQ2dJZ0FRPT0&imagekey=!1e10!2sAF1QipM-3zbWh1om-HyFdyZa_J_1e5MIOuQQLsTth_hC&hl=en&sa=X&ved=2ahUKEwiXmZax_Lz6AhWwgtgFHX9PBIcQoip6BAhCEAM",
+        "Language":["marathi"],
+        "famousFor":"nature",
+        "fascinatingFact":"deers",
+        "howToReach":"https://maharashtraplanet.com/wildlife-sanctuaries-in-maharashtra/sagareshwar-wildlife-sanctuary/how-to-reach"   
+
+    },
+        
+
+
     {
-        "id":21,
+        "id":22,
         "place":" Savannah ",
         "country":"Georgia",
         "photo":"https://travel.home.sndimg.com/content/dam/images/travel/stock/2018/4/5/0/GettyImages-504850010_joe-daniel-price_Savannah-Georgia.jpg.rend.hgtvcom.966.644.suffix/1523051076570.jpeg ",
@@ -233,7 +247,7 @@
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
     {
-        "id":22,
+        "id":23,
         "place":" El Nicho Waterfalls ",
         "country":"Cuba",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
@@ -243,7 +257,7 @@
     },
 
  {
-        "id":23,
+        "id":24,
         "place":" Harishchandra Fort ",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thrillophilia.com%2Ftours%2Fharishchandragad-nashik-trekking-from-mumbai&psig=AOvVaw2JrJ_Wihi0XY-Qyy8DLO3c&ust=1664643488865000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPiVr7D-vPoCFQAAAAAdAAAAABAE",
