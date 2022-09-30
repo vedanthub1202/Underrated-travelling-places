@@ -65,7 +65,7 @@
         "fascinatingFact":"The water is so blue that blue seems to be dull",
         "howToReach":"https://www.beautifulpuglia.com/how-to-get-to-puglia/"   
 
-    }
+    },
     
     {
         "id":7,
@@ -76,7 +76,7 @@
         "famousFor":"Landscapes,seashore",
         "fascinatingFact":"Has the largest mangroves forest in Mumbai",
         "howToReach":"https://moovitapp.com/index/en/public_transit-Airoli-Mumbai-stop_29128045-3732"   
-    }
+    },
     {
         "id":8,
         "place":"Champhai",
@@ -100,7 +100,9 @@
         "howToReach":"https://www.thomascook.in/international-tourism/how-to-reach-madagascar"   
        
        },
-       {
+       
+        {
+
         "id":10,
         "place":"Bahu plaza",
         "country":"India",
@@ -109,7 +111,6 @@
         "famousFor":"eating",
         "fascinatingFact":"have delicoius food",
         "howToReach":"By car bus or taxi "   
-
       },
 
        {
@@ -123,5 +124,18 @@
         "howToReach":"By car bus or taxi "   
 
       },
+
+    
+      {
+        "id":12,
+        "place":"Radhanagari",
+        "country":"india",
+        "photo":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgNnetsq2O1I8hnkHE7wn2MdCfF3wE7Bp066vze-J5Qg&s",
+        "Language":["marathi"],
+        "famousFor":"nature",
+        "fascinatingFact":"Radhanagari Wildlife Sanctuary",
+        "howToReach":"https://tourism.webindia123.com/tourism/wildlife/nationalpark/Radhanagari_Wildlife_Sanctuary/howtoreach.htm"   
+
+    }
 
 ]
