@@ -64,4 +64,14 @@
         "fascinatingFact":"The water is so blue that blue seems to be dull",
         "howToReach":"https://www.beautifulpuglia.com/how-to-get-to-puglia/"   
     }
+    
+    {"id":7,
+        "place":"airoli",
+        "country":"india",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAiroli_Bridge&psig=AOvVaw0SRHXeAclw91jMExR_ENFi&ust=1664630766564000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDAn4PPvPoCFQAAAAAdAAAAABAD",
+        "Language":["Hindi,English, Marathi"],
+        "famousFor":"Landscapes,seashore",
+        "fascinatingFact":"Has the largest mangroves forest in Mumbai",
+        "howToReach":"https://moovitapp.com/index/en/public_transit-Airoli-Mumbai-stop_29128045-3732"   
+    }
 ]
