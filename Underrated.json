@@ -340,6 +340,17 @@
         "famousFor":"Salamsagar Talab, Pokaran fort , Nuclear",
         "fascinatingFact":"land of 10 mirages",
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
+    },
+{
+       "id":25 ,
+        "place":"Kharghar",
+        "country":"India",
+        "photo":"https://en.wikipedia.org/wiki/File:Pandavkada.jpg",
+        "Language":["marathi"],
+        "famousFor":"nature",
+        "fascinatingFact":"Pandav Kada Kharghar",
+        "howToReach":"https://www.google.com/maps/place/Kharghar,+Navi+Mumbai,+Maharashtra/@19.0647798,73.0245929,13z/data=!3m1!4b1!4m5!3m4!1s0x3be7c21a53e30b83:0xa766b29f687709d7!8m2!3d19.0473216!4d73.0699046"   
+
     }
 
 
