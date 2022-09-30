@@ -209,6 +209,18 @@
         "famousFor":"Beloved for its romantic architecture, colorful history and ethereal, sphagnum-draped trees, the city is fast adding hotel rooms to accommodate a swell of visitors",
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
-    },
+    }
+{
+     "id":18,
+        "place":"Harvalem Waterfalls",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.trawell.in%2Fgoa%2Fpanjim%2Farvalem-waterfalls&psig=AOvVaw2JWY17LCvRBsY5GEABpj82&ust=1664645164585000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiHutCEvfoCFQAAAAAdAAAAABAD ",
+        "Language":["English, Hindi,Marathi"],
+        "famousFor":"most famous waterfall in north goa",
+        "fascinatingFact":"well known scenic waterfall with a multi-level viewing area is large during monsoon season",
+        "howToReach":"https://www.google.com/maps/place/Harvalem+Waterfalls/@15.5510768,74.024463,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfbd4c54c04655:0x623633fe068aab4b!8m2!3d15.5510768!4d74.0266517"
+}
+
+    
 
 ]
