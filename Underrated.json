@@ -222,6 +222,17 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
+ {
+        "id":21,
+        "place":" Goa ",
+        "country":"India",
+        "photo":"https://www.gettyimages.in/photos/goa-tourist ",
+        "Language":["English, Hindi"],
+        "famousFor":"Beloved for its romantic dates, parties in clubs, beuty of beaches and night life of Goa",
+        "fascinatingFact":" Asia’s Only Naval Aviation Museum is at Goa",
+        "howToReach":" https://www.google.com/maps/dir//Goa/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3bbfba106336b741:0xeaf887ff62f34092!3e0?sa=X&ved=2ahUKEwj8vaGmhL36AhXq-jgGHTHdDkAQ-A96BAhSEAw"
+    },
+    
     {
         "id":21,
         "place":" El Nicho Waterfalls ",
@@ -230,9 +241,10 @@
         "Language":["English, Spanish"],
         "famousFor":"The waterfall is attractive and flows throughout the year, even during the dry season.",
         "howToReach":" https://www.google.com/maps/place/Cascate+El+nicho/@22.0281425,-80.1335324,17z/data=!3m1!4b1!4m5!3m4!1s0x8f2b20ce1ef24b37:0xe576dbd48cbe30b9!8m2!3d22.0281425!4d-80.1313437?hl=en"
-    }
+    },
+    
     {
-        "id":25,
+        "id":22,
         "place":"Kaas Plateau",
         "country":"India",
         "photo":"https://www.kas.ind.in/creative/upload/kas%2028%20sept%204.png",
@@ -241,6 +253,6 @@
         "fascinatingFact":"It is a high hill plateau and with the onset of monsoon season, the grassland springs to life and changes into a land of flowers",
         "howToReach":"https://www.india.com/travel/articles/pune-to-kaas-plateau-how-to-reach-kaas-plateau-from-pune-by-road-3239032/"   
 
-    },
+    }
     
 ]
