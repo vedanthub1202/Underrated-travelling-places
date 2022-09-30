@@ -386,6 +386,18 @@
         "fascinatingFact":"Biggest Ganpati Temple in the shape of Octopus",
         "howToReach":"https://goo.gl/maps/VdFkgyM7CrEWYRWj9"
 
+},
+    
+    {
+        "id":34,
+        "place":"Ahmednagar",
+        "country":"India",
+        "photo":"https://www.revv.co.in/blogs/wp-content/uploads/2021/06/Sandhan-Valley.jpg",
+        "Language":["Marathi,English,Hindi"],
+        "famousFor":"Rock Climbing,Hiking",
+        "fascinatingFact": "Sandhan valley, The Great Canyon in the Sahyadri ranges which is combination of a canyon and a valley. Located in the Ahmednagar district, India, near the famous fort Ratangad. Sandhan valley is undoubtedly The Valley of Shadows.",
+        "howToReach":"https://www.india.com/travel/articles/how-to-reach-sandhan-valley-in-maharashtra-by-road-train-and-flight-3229808/"   
+
     },
     {
         "id":18,
@@ -397,6 +409,7 @@
         "fascinatingFact":"home to all the modern amenities with some of the most exotic hotels and resorts in the world.",
         "howToReach":" https://goo.gl/maps/U7JCux6wMbF9pB3p8"
     },
+
 
     {
         "id":26,
@@ -749,6 +762,7 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
     },
+
 
 
 ]
