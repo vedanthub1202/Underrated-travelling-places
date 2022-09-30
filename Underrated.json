@@ -238,9 +238,6 @@
         "howToReach":"https://www.google.com/maps/place/Harvalem+Waterfalls/@15.5510768,74.024463,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfbd4c54c04655:0x623633fe068aab4b!8m2!3d15.5510768!4d74.0266517"
 },
 
-    
-
-
  {
         "id":22,
         "place":" Goa ",
@@ -434,7 +431,7 @@
         "howToReach":"https://www.google.com/maps?q=ziro+india&rlz=1C1GCEJ_enIN964IN964&um=1&ie=UTF-8&sa=X&ved=2ahUKEwj_89KSmb36AhXEyDgGHRWeAL8Q_AUoAnoECAMQBA"
     },
         {
-        "id":29,
+        "id":39,
         "place":"Seven Sister Hills",
         "country":"India",
         "photo":" https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APerjagadh_Seven_Sisters_Hills_5.jpg&psig=AOvVaw2S5QLIW6onzeR7pnpEjDv2&ust=1664648821794000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPD15qaSvfoCFQAAAAAdAAAAABAD ",
@@ -442,6 +439,18 @@
         "famousFor":"Mountains",
         "fascinatingFact":"beautiful views",
         "howToReach":" https://www.google.com/maps/place/Seven+Sisters+Hill,+Perjagadh/@20.5095625,79.5749988,17z/data=!3m1!4b1!4m5!3m4!1s0x3a2cba11352d8159:0x9cfded984f9e7bb6!8m2!3d20.5095625!4d79.5771875 "   
+    },
+    
+          {
+        "id":40,
+        "place":" walchand college  ",
+        "country":"India",
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.collegepravesh.com%2F2017%2F05%2FWCE-Sangli.jpg&imgrefurl=https%3A%2F%2Fwww.collegepravesh.com%2Fengineering-colleges%2Fwce-sangli%2F&tbnid=9vxg6c2SI-V5YM&vet=12ahUKEwig_OrNj736AhUMKbcAHUzMCNIQMygAegUIARC8AQ..i&docid=uAWOagwPqNiTuM&w=660&h=330&q=wce&hl=en&ved=2ahUKEwig_OrNj736AhUMKbcAHUzMCNIQMygAegUIARC8AQ",
+        "Language":["Marathi, English, Hindi"],
+        "famousFor":"torture",
+        "fascinatingFact":"placement",
+        "howToReach":" https://www.google.com/maps/place/Walchand+College+of+Engineering/@16.8457387,74.5684985,14z/data=!4m9!1m2!2m1!1swce!3m5!1s0x3bc1237f52c65db5:0xa3535676176ded0a!8m2!3d16.8457387!4d74.6014575!15sCgN3Y2VaBSIDd2NlkgESZW5naW5lZXJpbmdfc2Nob29smgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVVF5YTB4TWRWQjNFQUXgAQA?hl=en"
     }
-
+    
+    
 ]
