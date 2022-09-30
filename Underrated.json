@@ -565,8 +565,18 @@
         "famousFor":"Ziro Festival of Music ",
         "fascinatingFact":"Lush rice fields, gurgling rivers and picture-postcard villages of the Apatani tribe",
         "howToReach":"Take a bus or shared taxi from Bomdila or Tezpur (also worth checking out). You could also get a cab from either of the points and go directly to Ziro"
-}
+},
+{
+        "id":52,
+        "place":"Shillong",
+        "country":"India",
+        "photo":" https://www.google.com/search?q=shillong&sxsrf=ALiCzsbxXEQ6rigA_RV4IzjBy-k59e8Ypw:1664567642095&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj90YvYpb36AhWtRmwGHT6wAW0Q_AUoA3oECAMQBQ&biw=1366&bih=667&dpr=1#imgrc=kKj6rpu8aXKZyM",
+        "Language":["Khasi"],
+        "famousFor":"Hill",
+        "fascinatingFact":"Beauty of India",
+        "howToReach":"https://www.makemytrip.com/travel-guide/shillong/how-to-reach.html"   
 
+    }
 
 
 ]
