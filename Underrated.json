@@ -224,7 +224,10 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
 
+
     },
+{
+
 
      "id":21,
         "place":"Harvalem Waterfalls",
@@ -312,7 +315,18 @@
         "famousFor":"The volcanic island in the Aegean Sea is mostly known for its quaint, whitewashed villages atop sheer, rugged cliffs, the brilliantly blue shutters and rooftops mirroring the summer sky.",
         "fascinatingFact":"Beautiful Island",
         "howToReach":"https://goo.gl/maps/m9PibiL82WC9PcYM7"
-        }
+        },
+        
+        {
+         "id":29,
+        "place":" Khidrapur ",
+        "country":"India",
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.ttravelog.com%2Farticle%2Fimages%2FFB_IMG_1641269641745.jpg&imgrefurl=https%3A%2F%2Fttravelog.com%2Farticles%2Famazing-shri-kopeshwar-temple-khidrapur-cave-kolhapur-district-maharashtra_Bw5.html&tbnid=ulaLRg5u2ErmNM&vet=12ahUKEwjFlf_aib36AhVxidgFHW-QABQQMygDegUIARD0AQ..i&docid=zRgd5zrLHhH1JM&w=765&h=941&q=khidrapur&ved=2ahUKEwjFlf_aib36AhVxidgFHW-QABQQMygDegUIARD0AQ",
+        "Language":["Marathi,hindi"],
+        "famousFor":"Lord Shiva Temple",
+        "fascinatingFact":"sculpyural art",
+        "howToReach":" https://www.google.com/maps/place/Khidrapur,+Maharashtra+416108/@16.6155901,74.6802521,16z/data=!3m1!4b1!4m5!3m4!1s0x3bc0dc00e56f298b:0xfac8eeb8b2e94db1!8m2!3d16.615046!4d74.685418"
+}
 
 
 ]
