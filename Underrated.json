@@ -202,7 +202,17 @@
     },
 
     {
-       "id":19,
+       "id":19 ,
+        "place":"Daulatabad Fort",
+        "country":"India",
+        "photo":"https://www.google.com/maps/uv?pb=!1s0x3bdb9102a9586c27%3A0xa58c3f86bac73173!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN8qFlkdnEa7D4ouUCsuBrVS-yIKHKUsQpq9or5%3Dw379-h240-k-no!5sdaulatabad%20fort%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipPL2z2OqirQ4KllgRKwsxsu_kF2nX2_kPdiAMv5&hl=en&sa=X&ved=2ahUKEwj__eDB-7z6AhUnBLcAHebqC9YQoip6BQiCARAD",
+        "Language":["Marathi"],
+        "famousFor":"treking",
+        "fascinatingFact":"Baradari at top where you can have lunch",
+        "howToReach":"https://goo.gl/maps/Dew2m2vjDQBka2WY9"
+
+    {
+       "id":20,
         "place":"Bhilawadi Station",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Findiarailinfo.com%2Fstation%2Fmap%2Fbhilavdi-bvq%2F2242&psig=AOvVaw0WuWTFQAua2SMnbSd3Xorz&ust=1664642721026000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJicw8P7vPoCFQAAAAAdAAAAABAE",
@@ -213,7 +223,7 @@
     }
 
     {
-        "id":20,
+        "id":21,
         "place":" Savannah ",
         "country":"Georgia",
         "photo":"https://travel.home.sndimg.com/content/dam/images/travel/stock/2018/4/5/0/GettyImages-504850010_joe-daniel-price_Savannah-Georgia.jpg.rend.hgtvcom.966.644.suffix/1523051076570.jpeg ",
@@ -223,7 +233,7 @@
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
     {
-        "id":21,
+        "id":22,
         "place":" El Nicho Waterfalls ",
         "country":"Cuba",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
