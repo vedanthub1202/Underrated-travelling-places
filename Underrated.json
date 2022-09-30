@@ -416,6 +416,16 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
 
+    },
+  {
+        "id":26,
+        "place":" Tarkarli ",
+        "country":"India",
+        "photo":" https://travel-blog.happyeasygo.com/wp-content/uploads/2019/02/Tarkarli-Maharashtra.jpg ",
+        "fascinatingFact":"The pristine white-sand beaches of Tarkarli village are a treat for the senses",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
+
+
          },
     {
         "id":28,
@@ -726,8 +736,6 @@
         "famousFor":"Shri Krishna Temple",
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":"https://mathura.nic.in/how-to-reach/"
-
-
 
     }
 
