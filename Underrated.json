@@ -191,7 +191,7 @@
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
     }
      {
-       "id":17 ,
+       "id":18 ,
         "place":"Dandoba",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCg6kXWLzy_M&psig=AOvVaw0zD5RWsoVYMowOAt4LX7ia&ust=1664640966961000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjhi4T1vPoCFQAAAAAdAAAAABAD",
@@ -201,14 +201,14 @@
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
     }
     {
-        "id":17,
-        "place":" Savannah ",
-        "country":"Georgia",
-        "photo":"https://travel.home.sndimg.com/content/dam/images/travel/stock/2018/4/5/0/GettyImages-504850010_joe-daniel-price_Savannah-Georgia.jpg.rend.hgtvcom.966.644.suffix/1523051076570.jpeg ",
-        "Language":["English, Georgian"],
-        "famousFor":"Beloved for its romantic architecture, colorful history and ethereal, sphagnum-draped trees, the city is fast adding hotel rooms to accommodate a swell of visitors",
-        "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
-        "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
+        "id":19,
+        "place":" Santorini ",
+        "country":"Greece",
+        "photo":"http://media.cntraveler.com/photos/56556bab659c4b487486611e/master/pass/oia-santorini-greece-cr-alamy.jpg",
+        "Language":["English, Greek"],
+        "famousFor":"The volcanic island in the Aegean Sea is mostly known for its quaint, whitewashed villages atop sheer, rugged cliffs, the brilliantly blue shutters and rooftops mirroring the summer sky.",
+        "fascinatingFact":"Beautiful Island",
+        "howToReach":"https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
 
 ]
