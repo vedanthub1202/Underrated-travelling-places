@@ -502,6 +502,17 @@
         "famousFor":"Lord Shiva Temple",
         "fascinatingFact":"sculpyural art",
         "howToReach":" https://www.google.com/maps/place/Khidrapur,+Maharashtra+416108/@16.6155901,74.6802521,16z/data=!3m1!4b1!4m5!3m4!1s0x3bc0dc00e56f298b:0xfac8eeb8b2e94db1!8m2!3d16.615046!4d74.685418"
+
+},
+    {
+        "id":30,
+        "place":" niagara falls ",
+        "country":"northen america",
+        "photo":"https://torontocoachbus.files.wordpress.com/2014/11/new-york-niagara-falls-state-park.jpg",
+        "Language":["English,"],
+        "famousFor"Niagara Falls is the world’s fastest-moving waterfall with Highest Flow Rate,Five Tightrope Walks Over Niagara Falls,Niagara Falls consists of three waterfalls",
+        "howToReach":"https://www.bing.com/maps?osid=412aa8c3-92ab-412a-a05a-490a8d13dcbe&cp=43.08479~-79.07033&lvl=15&imgid=d8646bf0-ba4d-4fee-ae0b-585a502708ef&v=2&sV=2&form=S00027"
+
 },
        {
         "id":30,
