@@ -184,12 +184,12 @@
        "id":17 ,
         "place":"Naneghat",
         "country":"india",
-        "photo":"https://www.alamy.com/stock-photo/naneghat.jpg",
+        "photo:"https://www.alamy.com/stock-photo/naneghat.jpg",
         "Language":["indian"],
         "famousFor":"reverse waterfall",
         "fascinatingFact":"scenic views",
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
-    },
+    }
 
     
      {
@@ -202,7 +202,7 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
-        },
+        }
 {
 
        "id":19,
@@ -492,5 +492,16 @@
         "famousFor":"Ganpati Temple",
         "fascinatingFact":"senic view of krishna river and ganapati darshan",
         "howToReach":"https://www.google.co.in/search?q=sangli+ganapati+mandir&btnK=Google+Search&sxsrf=ALeKk00YbAxo6IkkQAAKDm9B87-Uqn5-fA%3A1625967546708&source=hp&ei=ukvqYNvjJ8aJoASNxoyQDQ&iflsig=AINFCbYAAAAAYOpZyibPbvMK9JwmaKP5L0JCbwFheDPR&oq=oyo+rooms+leaked+footage&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjEOoCECc6BwguEOoCECc6BAgjECc6CAgAELEDEIMBOhEILhCxAxCDARDHARCjAhCTAjoCCAA6BQguELEDOggILhDHARCvAToFCAAQsQM6CAguELEDEIMBOhQILhCxAxCDARDHARCjAhDJAxCTAjoFCAAQkgM6BQgAEMkDOgYIABAWEB46AggmOggIIRAWEB0QHlD-HVjnfGCKgQFoAXAAeACAAesCiAHeIJIBCDAuMjIuMS4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=gws-wiz&ved=0ahUKEwjbqKOQ8dnxAhXGBIgKHQ0jA9IQ4dUDCAc&uact=5#"
+    },
+   {
+        "id":45,
+        "place":"calagry",
+        "country":"Canada",
+        "photo":"https://www.google.com/search?q=calgary&rlz=1C1RXQR_enIN1025IN1025&source=lnms&tbm=isch&sa=X&ved=2ahUKEwip-ZSWoL36AhUxXnwKHZ9SCwAQ_AUoA3oECAMQBQ&biw=1536&bih=746&dpr=1.25",
+        "Language":["English"]
+        "famousFor":"Cosmopolitan Feel",
+        "fascinatingFact":"Calgary, a city with a cosmopolitan feel and a rural heritage, is located in the foothills of the Canadian Rockies. While some only visit to experience the famous mountains, there's much more to do — whether you're taking in an exhibit at the Glenbow Museum, which specializes in art and artifacts from Western Canada, or checking out the local foodie scene at the Calgary Farmers' Market.",
+        "howToReach":"https://www.google.com/maps/place/Calgary,+AB,+Canada/@51.0272883,-114.3680132,10z/data=!3m1!4b1!4m5!3m4!1s0x537170039f843fd5:0x266d3bb1b652b63a!8m2!3d51.0447331!4d-114.0718831?hl=en"
     }
+
 ]
