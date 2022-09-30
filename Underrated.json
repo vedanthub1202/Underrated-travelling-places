@@ -180,6 +180,18 @@
         "fascinatingFact":"a huge crater lake renowned for its bright-blue color and surrounding forests",
         "howToReach":"https://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105054884937303084940.000484a2122598d1532db&ll=40.721242,141.031494&spn=0.291426,0.808868&z=10&output=embed"
     },
+    {
+       "id":17 ,
+        "place":"Mahabaleshwar",
+        "country":"India",
+        "photo":"https://www.dreamstime.com/photos-images/mahabaleshwar.html",
+        "Language":["Hindi, English"],
+        "famousFor":"Mahabaleshwar is a hill station located in the Western Ghats, in Satara district of Maharashtra. ",
+        "fascinatingFact":"Apart from its strawberries, Mahabaleshwar is also well known for its numerous rivers, magnificent cascades and majestic peaks. ",
+        "howToReach":"https://www.google.com/maps?q=mahabaleshwar&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiO_6Wsj736AhW76jgGHbIhA08Q_AUoAnoECAEQBA"
+    },
+    
+    
         {
        "id":17 ,
         "place":"Naneghat",
@@ -222,14 +234,6 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
-     {
-        "id":48,
-        "place":" Faroe Islands ",
-        "country":"Faroe Islands",
-        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
-        "fascinatingFact":"Buses are free to use in the capital",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
-    },
  {
         "id":21,
         "place":" Goa ",
@@ -260,15 +264,7 @@
         "famousFor":"Flower Valley",
         "fascinatingFact":"It is a high hill plateau and with the onset of monsoon season, the grassland springs to life and changes into a land of flowers",
         "howToReach":"https://www.india.com/travel/articles/pune-to-kaas-plateau-how-to-reach-kaas-plateau-from-pune-by-road-3239032/"   
-},
-      {
-        "id":23,
-        "place":" Pokaran ",
-        "country":"India",
-        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
-        "Language":["Marwadi, English, Hindi"],
-        "famousFor":"Salamsagar Talab, Pokaran fort , Nuclear",
-        "fascinatingFact":"land of 5 mirages",
-        "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
+
     }
+    
 ]
