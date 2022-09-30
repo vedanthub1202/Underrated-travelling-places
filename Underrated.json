@@ -356,8 +356,7 @@
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
         "Language":["English, Spanish"],
         "famousFor":"The waterfall is attractive and flows throughout the year, even during the dry season.",
-        "howToReach":" https://www.google.com/maps/place/Cascate+El+nicho/@22.0281425,-80.1335324,17z/data=!3m1!4b1!4m5!3m4!1s0x8f2b20ce1ef24b37:0xe576dbd48cbe30b9!8m2!3d22.0281425!4d-80.1313437?hl=en"
-    },
+        "howToReach":"
     
     {
 
@@ -456,7 +455,15 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
     },
-     {
+         {
+        "id":26,
+        "place":" Dudhsagar Waterfalls ",
+        "country":"India",
+        "photo":"https://in.images.search.yahoo.com/images/view;_ylt=Awr1Tjo5NDdj8z8kfYC9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzY2NTBmYTE1MDY5NGY0ZmRjMGJhZjViMDkxOWMyMDIwBGdwb3MDMwRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Ddudhsagar%2Bfalls%26type%3DE211IN826G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D3&w=1080&h=1080&imgurl=i0.wp.com%2Fwww.extrachai.com%2Fwp-content%2Fuploads%2F2018%2F03%2FDudhsagar.jpg%3Ffit%3D1080%252C1080%26ssl%3D1&rurl=https%3A%2F%2Fwww.thrillophilia.com%2Fattractions%2Fdudhsagar-falls-goa&size=198.9KB&p=dudhsagar+falls&oid=6650fa150694f4fdc0baf5b0919c2020&fr2=piv-web&fr=mcafee&tt=Dudhsagar+Falls%2C+South+Goa%3A+How+To+Reach%2C+Best+Time+%26+Tips&b=0&ni=21&no=3&ts=&tab=organic&sigr=csnwex1sc7.s&sigb=hRu6qRJOj5p7&sigi=gcw7c_d97Zqu&sigt=XV65uejsftWW&.crumb=aINS38KqkAG&fr=mcafee&fr2=piv-web&type=E211IN826G0 ",
+        "fascinatingFact":"In rainy season it is very beautiful. Falling water seems to be milk that is why its name is Dudhsagar.",
+        "howToReach":" https://www.google.com/maps/place/Dudhsagar+Falls/@15.3144375,74.3121186,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfa618142b8b43:0xfd9448e7283b0225!8m2!3d15.3144375!4d74.3143073"
+    },
+    {
         "id":26,
         "place":"Malvan",
         "country":"India",
@@ -797,10 +804,6 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
     },
-
-
-
-
 
 ]
 
