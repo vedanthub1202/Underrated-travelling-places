@@ -211,7 +211,7 @@
         "famousFor":"Chitale Milk Dairy",
         "fascinatingFact":"Very good milk Products",
         "howToReach":"https://www.google.com/maps?q=bhilawadi+railway+station&source=lmns&bih=760&biw=1536&rlz=1C1CHZN_enIN949IN949&hl=en&sa=X&ved=2ahUKEwiB3-TB-7z6AhUXj9gFHSEBAa4Q_AUoAXoECAEQAQ"
-    }
+    },
 
 {
 
@@ -226,6 +226,7 @@
 
 
     },
+
 {
 
 
@@ -237,7 +238,7 @@
         "famousFor":"most famous waterfall in north goa",
         "fascinatingFact":"well known scenic waterfall with a multi-level viewing area is large during monsoon season",
         "howToReach":"https://www.google.com/maps/place/Harvalem+Waterfalls/@15.5510768,74.024463,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfbd4c54c04655:0x623633fe068aab4b!8m2!3d15.5510768!4d74.0266517"
-}
+},
 
     
 
@@ -285,6 +286,9 @@
     },
 
 
+    {
+
+
         "id":26,
         "place":"kolhapur ",
         "country":"india",
@@ -326,7 +330,17 @@
         "famousFor":"Lord Shiva Temple",
         "fascinatingFact":"sculpyural art",
         "howToReach":" https://www.google.com/maps/place/Khidrapur,+Maharashtra+416108/@16.6155901,74.6802521,16z/data=!3m1!4b1!4m5!3m4!1s0x3bc0dc00e56f298b:0xfac8eeb8b2e94db1!8m2!3d16.615046!4d74.685418"
-}
+},
+       {
+        "id":24,
+        "place":" himalaya ",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
+        "Language":["Marwadi,tamil, English, Hindi"],
+        "famousFor":"Salamsagar Talab, Pokaran fort , Nuclear",
+        "fascinatingFact":"land of 10 mirages",
+        "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
+    }
 
 
 ]
