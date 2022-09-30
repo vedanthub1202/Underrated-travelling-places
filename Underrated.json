@@ -265,6 +265,17 @@
         "famousFor":"Harishchandra Fort is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region.",
         "fascinatingFact":"It's one of the most peaceful and beautiful places in Maharashtra.",
         "howToReach":" https://goo.gl/maps/eFdmHkvVrYa9kifv9"
+    },
+
+{
+        "id":25,
+        "place":"Andaman And Nicobar Island",
+        "country":"India",
+        "photo":"https://www.google.com/search?q=andaman+and+nicobar+islands&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiJ07WRj736AhV8cGwGHUmKDt0Q_AUoAnoECAIQBA&biw=1846&bih=943&dpr=1#imgrc=gJ-0oe41oXJ6eM",
+        "Language":["Hindi,English"],
+        "famousFor":"white-sand beaches and palm lined shorelines along with one of the greatest underwater biodiversity housing corals and sea dwellers. ",
+        "fascinatingFact":"The largest sea turtles in the world nest here",
+        "howToReach":"https://www.google.com/maps/place/Andaman+and+Nicobar+Islands/@10.2154824,93.250342,7z/data=!3m1!4b1!4m5!3m4!1s0x3064a00f2b650ff3:0xce80055648fccb2c!8m2!3d11.7400867!4d92.6586401?hl=en"
     }
 
 ]
