@@ -222,8 +222,14 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
-
-
+     {
+        "id":48,
+        "place":" Faroe Islands ",
+        "country":"Faroe Islands",
+        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
+        "fascinatingFact":"Buses are free to use in the capital",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
+    },
  {
         "id":21,
         "place":" Goa ",
@@ -265,23 +271,15 @@
         "fascinatingFact":"land of 5 mirages",
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
     },
-
-
+{
         "id":24,
-        "place":"kolhapur ",
-        "country":"india",
-        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
-        "Language":[" English, marathi,hindi"],
-        "famousFor":"Bird Watching, Hiking,forts,rankala lake,mesuem, Pinterest-worthy waterfalls, Unrivaled natural beauty:*",
-        "fascinatingFact":"Buses are free to use in the capital",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
-    },
-         {
-        "id":25,
-        "place":" Faroe Islands ",
-        "country":"Faroe Islands",
-        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
-        "fascinatingFact":"Buses are free to use in the capital",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
+        "place":"Jaysingpur",
+        "country":"India",
+        "photo":"https://content.jdmagicbox.com/comp/kolhapur/u5/0231px231.x231.181113162412.y4u5/catalogue/siddhivinayak-temple-jaysingpur-kolhapur-8t8chz01ic.jpg?clr=463320",
+        "Language":["Marathi"],
+        "famousFor":"Aamba bhadang, Ganpati Temple",
+        "fascinatingFact":"Biggest Ganpati Temple in the shape of Octopus",
+        "howToReach":"https://goo.gl/maps/VdFkgyM7CrEWYRWj9"
     }
+
 ]
