@@ -513,7 +513,17 @@
         "fascinatingFact":"land of 10 mirages",
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
     },
-{
+    {
+        "id":25,
+        "place":" Perjagadh Seven Sisters Hills ",
+        "country":"India",
+        "photo":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Perjagadh_Seven_Sisters_Hills_5.jpg/675px-Perjagadh_Seven_Sisters_Hills_5.jpg?20170617202658",
+        "Language":["Marathi, English, Hindi"],
+        "famousFor":"Morning and evening view",
+        "fascinatingFact":"House of 7 Sister(God)",
+        "howToReach":"https://www.google.com/maps/place/Seven+Sisters+Hill,+Perjagadh/@20.5095625,79.5771875,15z/data=!4m5!3m4!1s0x0:0x9cfded984f9e7bb6!8m2!3d20.5095625!4d79.5771875"
+    },
+    {
        "id":25 ,
         "place":"Kharghar",
         "country":"India",
