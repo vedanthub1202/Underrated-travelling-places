@@ -226,6 +226,17 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
 
+    },
+{
+     "id":18,
+        "place":" Arvalem Caves ",
+        "country":"India",
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fgoaspot.com%2Fwp-content%2Fuploads%2F2020%2F04%2FPandava-Caves-680x350.jpg&imgrefurl=https%3A%2F%2Fgoaspot.com%2Fpandava-caves-2%2F&tbnid=Q7nJayiOeKDb_M&vet=12ahUKEwjto5HXiL36AhVCUnwKHSrWCckQMygNegUIARDDAQ..i&docid=ZMmkxuGnJMkEYM&w=680&h=350&q=arvalem%20caves%20goa&ved=2ahUKEwjto5HXiL36AhVCUnwKHSrWCckQMygNegUIARDDAQ ",
+        "Language":["English,Hindi,Marathi"],
+        "famousFor":"Historic place",
+        "fascinatingFact":"well known as pandavas caves",
+        "howToReach":"https://www.google.com/maps/place/Arvalem+Caves/@15.552527,74.0208541,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfbd4e173520a1:0xdcbc7f802ffbdbfc!8m2!3d15.552527!4d74.0230428"
+}
 
     },
  {
@@ -647,9 +658,5 @@
         "howToReach":"https://goo.gl/maps/NbD2H2J45R2Hy51J8"
         
         }
-
-
-
-
 
 ]
