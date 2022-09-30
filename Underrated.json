@@ -201,7 +201,8 @@
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
         },
-    {
+{
+
        "id":19,
         "place":"Bhilawadi Station",
         "country":"India",
@@ -349,6 +350,7 @@
         "Language":["English, Spanish"],
         "famousFor":"Award-winning restaurants,Cuyabeno Wildlife Reserve,powdery beaches,peak of Cotopaxi",
         "howToReach":"https://www.rome2rio.com/map/Quito-Airport-UIO/Cuyabeno-Wildlife-Reserve "
+
     },
 
     {
@@ -400,5 +402,16 @@
         "famousFor":"beautiful valleys, lush green valleys, rich tribal culture,beautiful fort",
         "fascinatingFact":"",
         "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
-    }
+    },
+    
+        {
+        "id":37,
+        "place":" agashiv hills ",
+        "country":"india",
+        "photo":"https://www.google.com/search?q=agashiv+hillskarad&tbm=isch&ved=2ahUKEwj20vqvhL36AhVjgGMGHXNzBUIQ2-cCegQIABAA&oq=agashiv+hillskarad&gs_lcp=CgNpbWcQAzIICAAQHhAIEAc6BAgjECc6BAgAEEM6CwgAEIAEELEDEIMBOgUIABCABDoGCAAQHhAHOgYIABAeEAg6BAgAEBhQyyFYjkVg3kZoAHAAeACAAagBiAGsE5IBBDAuMTeYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=ayY3Y7bxIeOAjuMP8-aVkAQ&bih=571&biw=1229&rlz=1C1FKPE_enIN974IN974"
+        "Language":["marathi
+        "famousFor":"nature and greenery
+        "fascinatingFact":"shivas temple at top of hill"
+        "howToReach":" https://goo.gl/maps/y1WEJ3CCAGSmGJsbA"
+        },
 ]
