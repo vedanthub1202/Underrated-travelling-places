@@ -261,6 +261,14 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
 
+    },
+     {
+        "id":48,
+        "place":" Faroe Islands ",
+        "country":"Faroe Islands",
+        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
+        "fascinatingFact":"Buses are free to use in the capital",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
 
     },
 
@@ -273,6 +281,7 @@
         "famousFor":"beautiful valleys, lush green valleys, rich tribal culture",
         "fascinatingFact":"Ziro is a town and the district headquarters of the Lower Subansiri district in the Indian state of Arunachal Pradesh. It is included the Tentative List for UNESCO's World Heritage Site for the Apatani cultural landscape.",
         "howToReach":"https://www.google.com/maps/search/ziro+valley+arunachal+pradesh/@27.5631904,93.8194242,12z/data=!3m1!4b1"
+
     },
  {
         "id":19,
@@ -369,13 +378,14 @@
     },
 {
         "id":24,
-        "place":" Hampi",
-        "country":"India,Karnataka",
-        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
-        "Language":["Kannada, English, Hindi"],
-        "famousFor":"Creative temples",
-        "fascinatingFact":"land of 5 mirages",
-        "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
+        "place":"Jaysingpur",
+        "country":"India",
+        "photo":"https://content.jdmagicbox.com/comp/kolhapur/u5/0231px231.x231.181113162412.y4u5/catalogue/siddhivinayak-temple-jaysingpur-kolhapur-8t8chz01ic.jpg?clr=463320",
+        "Language":["Marathi"],
+        "famousFor":"Aamba bhadang, Ganpati Temple",
+        "fascinatingFact":"Biggest Ganpati Temple in the shape of Octopus",
+        "howToReach":"https://goo.gl/maps/VdFkgyM7CrEWYRWj9"
+
     },
     {
         "id":18,
@@ -716,6 +726,7 @@
         "famousFor":"Shri Krishna Temple",
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":"https://mathura.nic.in/how-to-reach/"
+
 
 
     }
