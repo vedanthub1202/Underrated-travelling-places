@@ -55,7 +55,8 @@
 
     },
     
-    {"id":6,
+    {   
+        "id":6,
         "place":"puglia",
         "country":"italy",
         "photo":"https://i.guim.co.uk/img/media/53449f7d9e1d621a03c5078e20d3505e9e28c50d/0_0_4302_2582/master/4302.jpg?width=1300&quality=45&dpr=2&s=none",
@@ -63,9 +64,33 @@
         "famousFor":"Landscapes,seashore",
         "fascinatingFact":"The water is so blue that blue seems to be dull",
         "howToReach":"https://www.beautifulpuglia.com/how-to-get-to-puglia/"   
+
+    },
+    
+    {
+        "id":7,
+        "place":"airoli",
+        "country":"india",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAiroli_Bridge&psig=AOvVaw0SRHXeAclw91jMExR_ENFi&ust=1664630766564000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKDAn4PPvPoCFQAAAAAdAAAAABAD",
+        "Language":["Hindi,English, Marathi"],
+        "famousFor":"Landscapes,seashore",
+        "fascinatingFact":"Has the largest mangroves forest in Mumbai",
+        "howToReach":"https://moovitapp.com/index/en/public_transit-Airoli-Mumbai-stop_29128045-3732"   
     },
     {
-        "id":7 ,
+        "id":8,
+        "place":"Champhai",
+        "country":"India",
+        "photo":" https://travel-blog.happyeasygo.com/wp-content/uploads/2019/02/Champhai-Mizoram-unexplored-places-in-india.jpg",
+        "Language":["Kannada"],
+        "famousFor":"Monuments",
+        "fascinatingFact":" It is one of the best places for an insight into the rich tribal culture of the state",
+        "howToReach":"https://goo.gl/maps/Vd15RayxtdNusTwG7"   
+
+    },
+
+    {
+        "id":9,
         "place":"Madagascar",
         "country":"Madagascar",
         "photo":" https://www.istockphoto.com/search/2/image?phrase=madagascar",
@@ -73,10 +98,23 @@
         "famousFor":"Views",
         "fascinatingFact":"Most of Madagascar’s wildlife is found nowhere else on Earth",
         "howToReach":"https://www.thomascook.in/international-tourism/how-to-reach-madagascar"   
+       
+       },
+       
+        {
+        "id":10,
+        "place":"Bahu plaza",
+        "country":"India",
+        "photo":" https://im.hunt.in/cg/jammu/City-Guide/bahu.jpg",
+        "Language":["hindi"],
+        "famousFor":"eating",
+        "fascinatingFact":"have delicoius food",
+        "howToReach":"By car bus or taxi "   
 
     },
+    
       {
-        "id":8 ,
+        "id":11 ,
         "place":"Radhanagari",
         "country":"india",
         "photo":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgNnetsq2O1I8hnkHE7wn2MdCfF3wE7Bp066vze-J5Qg&s",
@@ -85,6 +123,8 @@
         "fascinatingFact":"Radhanagari Wildlife Sanctuary",
         "howToReach":"https://tourism.webindia123.com/tourism/wildlife/nationalpark/Radhanagari_Wildlife_Sanctuary/howtoreach.htm"   
 
-    },
+    }
         
+
+
 ]
