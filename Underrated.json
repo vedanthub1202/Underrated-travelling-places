@@ -303,17 +303,9 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
     },
-         {
-        "id":27,
-        "place":" Faroe Islands ",
-        "country":"Faroe Islands",
-        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
-        "fascinatingFact":"Buses are free to use in the capital",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
-
 
     {
-        "id":28,
+        "id":27,
         "place":" Santorini ",
         "country":"Greece",
         "photo":"http://media.cntraveler.com/photos/56556bab659c4b487486611e/master/pass/oia-santorini-greece-cr-alamy.jpg",
@@ -324,7 +316,7 @@
         },
         
         {
-         "id":29,
+         "id":28,
         "place":" Khidrapur ",
         "country":"India",
         "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.ttravelog.com%2Farticle%2Fimages%2FFB_IMG_1641269641745.jpg&imgrefurl=https%3A%2F%2Fttravelog.com%2Farticles%2Famazing-shri-kopeshwar-temple-khidrapur-cave-kolhapur-district-maharashtra_Bw5.html&tbnid=ulaLRg5u2ErmNM&vet=12ahUKEwjFlf_aib36AhVxidgFHW-QABQQMygDegUIARD0AQ..i&docid=zRgd5zrLHhH1JM&w=765&h=941&q=khidrapur&ved=2ahUKEwjFlf_aib36AhVxidgFHW-QABQQMygDegUIARD0AQ",
@@ -334,7 +326,7 @@
         "howToReach":" https://www.google.com/maps/place/Khidrapur,+Maharashtra+416108/@16.6155901,74.6802521,16z/data=!3m1!4b1!4m5!3m4!1s0x3bc0dc00e56f298b:0xfac8eeb8b2e94db1!8m2!3d16.615046!4d74.685418"
 },
        {
-        "id":30,
+        "id":29,
         "place":" himalaya ",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
@@ -347,7 +339,7 @@
 
 
     {
-        "id":31,
+        "id":30,
         "place":" Ecuador ",
         "country":"Ecuador",
         "photo":"https://images.squarespace-cdn.com/content/v1/5a87961cbe42d637c54cab93/1607001590210-X9SY24OUONTXUUYZZYLJ/best-places-to-visit-in-ecuador-south-america-travel-guide.jpg?format=1000w",
@@ -357,7 +349,7 @@
     },
 
     {
-        "id":32,
+        "id":31,
         "place":" Lakshadweep",
         "country":"India",
         "photo":"https://www.holidify.com/images/bgImages/LAKSHADWEEP-ISLANDS.jpg",
@@ -366,7 +358,7 @@
         "howToReach":"https://lakshadweep.gov.in/how-to-reach/#:~:text=Lakshadweep%20Island%20can%20be%20reached,Airlines%20operate%20flights%20from%20Kochi. "
     },
     {
-        "id":33,
+        "id":32,
         "place":" narsivhan temple ",
         "country":"india",
         "photo":"https://www.google.com/search?q=temple+halshi+vadikarad&tbm=isch&ved=2ahUKEwjM4qevhr36AhUkktgFHe_oAZUQ2-cCegQIABAA&oq=temple+halshi+vadikarad&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQHhAHOgYIABAeEAg6BAgAEBg6CwgAEIAEELEDEIMBOgUIABCABDoECAAQQzoICAAQHhAIEAc6BggAEAoQGDoGCAAQHhAFUOELWIdKYK9MaABwAHgAgAHBAYgB3xiSAQQwLjIxmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=gyg3Y4yVBKSk4t4P79GHqAk&bih=571&biw=1229&rlz=1C1FKPE_enIN974IN974"
@@ -376,7 +368,7 @@
         "howToReach":" https://goo.gl/maps/XSDPBx2hqwkApJZz8"
     },
     {
-        "id":34,
+        "id":33,
         "place":"Karjat hills",
         "country":"India",
         "photo":"https://www.hillstationboss.com/karjat/",
@@ -385,6 +377,16 @@
         "fascinatingFact":" scenic natural panoramas, huge mountains, ancient caves, temples and forts.",
         "howToReach":"https://www.india.com/travel/karjat/how-to-reach/"   
     },
+   {
+        "id":34,
+        "place":"Panhala fort",
+        "country":"India",
+        "photo":"https://www.shutterstock.com/search/panhala-fort",
+        "Language":["Marathi, English, Hindi"],
+        "famousFor":"Shivaji Maharaj, Trekking, Forest area",
+        "fascinatingFact":"This Fort has first constructed in the year 1178 AD by Raja Bhoj II, the famous ruler of Shilahara, after which this fort was rebuilt in the year 1489 by Adil Shah I",
+        "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
+
     
     {
         "id":35,
@@ -482,17 +484,16 @@
         "howToReach":"https://www.google.com/maps?q=chadoh+dam+yavatmal&source=lmns&bih=984&biw=1920&hl=en&sa=X&ved=2ahUKEwjEjrjxmL36AhVUKbcAHQ6nD04Q_AUoAXoECAEQAQ"
     },
 
-   {
+    {
         "id":44,
-        "place":"Sangli Ganpati Mandir",
+        "place":"Dhodap Fort",
         "country":"India",
-        "photo":"https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F3%2F34%2FGanpati_Mandir%252C_Sangli_02.jpg&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGanpati_Mandir%2C_Sangli_02.jpg&tbnid=kN7WayOMhpLiqM&vet=12ahUKEwiFhtW4nb36AhWzgmMGHZeBB0YQMygBegUIARDWAQ..i&docid=HLcRArx6ckTCiM&w=3264&h=2448&q=sangli%20ganapati%20mandir&ved=2ahUKEwiFhtW4nb36AhWzgmMGHZeBB0YQMygBegUIARDWAQ",
+        "photo":"https://trahot.com/wp-content/uploads/2020/02/Dhodap-Trek-Nashik1.jpg",
         "Language":["Marathi"],
-        "famousFor":"Ganpati Temple",
-        "fascinatingFact":"senic view of krishna river and ganapati darshan",
-        "howToReach":"https://www.google.co.in/search?q=sangli+ganapati+mandir&btnK=Google+Search&sxsrf=ALeKk00YbAxo6IkkQAAKDm9B87-Uqn5-fA%3A1625967546708&source=hp&ei=ukvqYNvjJ8aJoASNxoyQDQ&iflsig=AINFCbYAAAAAYOpZyibPbvMK9JwmaKP5L0JCbwFheDPR&oq=oyo+rooms+leaked+footage&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjEOoCECc6BwguEOoCECc6BAgjECc6CAgAELEDEIMBOhEILhCxAxCDARDHARCjAhCTAjoCCAA6BQguELEDOggILhDHARCvAToFCAAQsQM6CAguELEDEIMBOhQILhCxAxCDARDHARCjAhDJAxCTAjoFCAAQkgM6BQgAEMkDOgYIABAWEB46AggmOggIIRAWEB0QHlD-HVjnfGCKgQFoAXAAeACAAesCiAHeIJIBCDAuMjIuMS4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=gws-wiz&ved=0ahUKEwjbqKOQ8dnxAhXGBIgKHQ0jA9IQ4dUDCAc&uact=5#"
-
-    }
+        "famousFor":"Adventure",
+        "fascinatingFact":"Along with traking and adventure here milk products are also too famous",
+        "howToReach":"https://www.google.com/maps/place/Dhodap+Fort/@20.3848552,74.0300072,15z/data=!4m2!3m1!1s0x0:0x138a9ba17a022045?sa=X&ved=2ahUKEwjfqZOknb36AhUHRmwGHTJpCcoQ_BJ6BAhnEAg"
+    },
 
 
 
@@ -570,9 +571,21 @@
         "famousFor":"Ziro Festival of Music ",
         "fascinatingFact":"Lush rice fields, gurgling rivers and picture-postcard villages of the Apatani tribe",
         "howToReach":"Take a bus or shared taxi from Bomdila or Tezpur (also worth checking out). You could also get a cab from either of the points and go directly to Ziro"
+
+},
+{
+        "id":52,
+        "place":"Shillong",
+        "country":"India",
+        "photo":" https://www.google.com/search?q=shillong&sxsrf=ALiCzsbxXEQ6rigA_RV4IzjBy-k59e8Ypw:1664567642095&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj90YvYpb36AhWtRmwGHT6wAW0Q_AUoA3oECAMQBQ&biw=1366&bih=667&dpr=1#imgrc=kKj6rpu8aXKZyM",
+        "Language":["Khasi"],
+        "famousFor":"Hill",
+        "fascinatingFact":"Beauty of India",
+        "howToReach":"https://www.makemytrip.com/travel-guide/shillong/how-to-reach.html"   
+
 }
       {
-        "id":52,
+        "id":53,
         "place":"Chopta, Uttarakhand",
         "country":"India",
         "photo":"https://assets.traveltriangle.com/blog/wp-content/uploads/2016/09/A-winter-snap-of-the-snowcapped-Himalayas-and-the-Tungnath-Temple-in-Chopta.jpg",
@@ -583,7 +596,7 @@
 
     },
         {
-        "id":53,
+        "id":54,
         "place":" shree Dwarkadhish Temple, Mathura",
         "country":"India",
         "photo":" https://www.google.com/imgres?imgurl=https%3A%2F%2Fnavbharattimes.indiatimes.com%2Fphoto%2Fmsid-84288331%2Cimgsize-150586%2Fpic.jpg&imgrefurl=https%3A%2F%2Fnavbharattimes.indiatimes.com%2Ftravel%2Freligious-trip%2Ftemples-in-mathura-vrindavan-in-hindi%2Farticleshow%2F84288331.cms&tbnid=2V04Jdu5p6ucaM&vet=12ahUKEwiXquKEpb36AhVI_jgGHQR-DHwQMygAegUIARDHAQ..i&docid=teX5oYQn5lcvNM&w=1200&h=900&q=mathura%20up%20temple&ved=2ahUKEwiXquKEpb36AhVI_jgGHQR-DHwQMygAegUIARDHAQ",
@@ -591,17 +604,23 @@
         "famousFor":"Shri Krishna Temple",
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":"https://mathura.nic.in/how-to-reach/"
+
     },
+    
      {
-        "id":54,
+        "id":55,
         "place":"GanganBavda",
         "country":"India",
         "photo":"https://images.app.goo.gl/dKhMYTw3bfMA22Ce7",
-        "Language":["FMarathi"],
+        "Language":["Marathi"],
         "famousFor":"HIKING",
         "fascinatingFact":"Natural Beauty",
         "howToReach":"https://goo.gl/maps/NbD2H2J45R2Hy51J8"
-    },
+        
+        }
+
+
+
 
 
 ]
