@@ -63,6 +63,7 @@
         "famousFor":"Landscapes,seashore",
         "fascinatingFact":"The water is so blue that blue seems to be dull",
         "howToReach":"https://www.beautifulpuglia.com/how-to-get-to-puglia/"   
+
     }
     
     {"id":7,
@@ -85,4 +86,18 @@
         "howToReach":"https://goo.gl/maps/Vd15RayxtdNusTwG7"   
 
     },
+
+    },
+    {
+        "id":9,
+        "place":"Madagascar",
+        "country":"Madagascar",
+        "photo":" https://www.istockphoto.com/search/2/image?phrase=madagascar",
+        "Language":["malagasy"],
+        "famousFor":"Views",
+        "fascinatingFact":"Most of Madagascar’s wildlife is found nowhere else on Earth",
+        "howToReach":"https://www.thomascook.in/international-tourism/how-to-reach-madagascar"   
+
+    },
+        
 ]
