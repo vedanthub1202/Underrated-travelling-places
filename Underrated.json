@@ -189,7 +189,7 @@
         "famousFor":"reverse waterfall",
         "fascinatingFact":"scenic views",
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
-    }
+    },
      {
        "id":17 ,
         "place":"Dandoba",
@@ -199,7 +199,7 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
-    }
+    },
     {
         "id":17,
         "place":" Savannah ",
@@ -210,5 +210,14 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
+    {
+        "id":18,
+        "place":" El Nicho Waterfalls ",
+        "country":"Cuba",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
+        "Language":["English, Spanish"],
+        "famousFor":"The waterfall is attractive and flows throughout the year, even during the dry season.",
+        "howToReach":" https://www.google.com/maps/place/Cascate+El+nicho/@22.0281425,-80.1335324,17z/data=!3m1!4b1!4m5!3m4!1s0x8f2b20ce1ef24b37:0xe576dbd48cbe30b9!8m2!3d22.0281425!4d-80.1313437?hl=en"
+    }
 
 ]
