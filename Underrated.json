@@ -233,6 +233,7 @@
     }
 ,
     {
+
         "id":29,
         "place":" Ecuador ",
         "country":"Ecuador",
@@ -240,6 +241,30 @@
         "Language":["English, Spanish"],
         "famousFor":"Award-winning restaurants,Cuyabeno Wildlife Reserve,powdery beaches,peak of Cotopaxi",
         "howToReach":"https://www.rome2rio.com/map/Quito-Airport-UIO/Cuyabeno-Wildlife-Reserve "
+    },
+
+{
+        "id":22,
+        "place":"Kaas Plateau",
+        "country":"India",
+        "photo":"https://www.kas.ind.in/creative/upload/kas%2028%20sept%204.png",
+        "Language":["Marathi"],
+        "famousFor":"Flower Valley",
+        "fascinatingFact":"It is a high hill plateau and with the onset of monsoon season, the grassland springs to life and changes into a land of flowers",
+        "howToReach":"https://www.india.com/travel/articles/pune-to-kaas-plateau-how-to-reach-kaas-plateau-from-pune-by-road-3239032/"   
+},
+      {
+        "id":23,
+        "place":" Pokaran ",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
+        "Language":["Marwadi, English, Hindi"],
+        "famousFor":"Salamsagar Talab, Pokaran fort , Nuclear",
+        "fascinatingFact":"land of 5 mirages",
+        "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
     }
+
+    
+    
 
 ]
