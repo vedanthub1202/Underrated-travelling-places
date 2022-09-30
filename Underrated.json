@@ -184,12 +184,12 @@
        "id":17 ,
         "place":"Naneghat",
         "country":"india",
-        "photo:"https://www.alamy.com/stock-photo/naneghat.jpg",
+        "photo": "//https:www.alamy.com/stock-photo/naneghat.jpg",
         "Language":["indian"],
         "famousFor":"reverse waterfall",
         "fascinatingFact":"scenic views",
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
-    }
+    },
 
     
      {
@@ -202,7 +202,7 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
-        }
+        },
 {
 
        "id":19,
@@ -226,38 +226,8 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
 
-    },
-{
-     "id":18,
-        "place":" Arvalem Caves ",
-        "country":"India",
-        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fgoaspot.com%2Fwp-content%2Fuploads%2F2020%2F04%2FPandava-Caves-680x350.jpg&imgrefurl=https%3A%2F%2Fgoaspot.com%2Fpandava-caves-2%2F&tbnid=Q7nJayiOeKDb_M&vet=12ahUKEwjto5HXiL36AhVCUnwKHSrWCckQMygNegUIARDDAQ..i&docid=ZMmkxuGnJMkEYM&w=680&h=350&q=arvalem%20caves%20goa&ved=2ahUKEwjto5HXiL36AhVCUnwKHSrWCckQMygNegUIARDDAQ ",
-        "Language":["English,Hindi,Marathi"],
-        "famousFor":"Historic place",
-        "fascinatingFact":"well known as pandavas caves",
-        "howToReach":"https://www.google.com/maps/place/Arvalem+Caves/@15.552527,74.0208541,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfbd4e173520a1:0xdcbc7f802ffbdbfc!8m2!3d15.552527!4d74.0230428"
-}
 
     },
- {
-        "id":57,
-        "place":" Lou ",
-        "country":"india",
-        "photo":"https://www.amazon.in/Lou/dp/B075FZDHPZ",
-        "Language":["English"],
-        "famousFor":"romance",
-        "fascinatingFact":"complimentary",
-        "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
-    },
-{
-        "id":18,
-        "place":" Bali ",
-        "country":"Indonesia
-        "photo":"data:image/jpeg;base64,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 ",
-        "Language":["English, Balinese"]
-        "famousFor":" Bali appeals through its sheer natural beauty of looming volcanoes and lush terraced rice fields that exude peace and serenity. It is also famous for surfers' paradise!",
-        "fascinatingFact":"Most expensive coffee, black sand and Gunung Agung Volcano"
-        "howToReach":" https://goo.gl/maps/9hFLi14KbNUinrBn8"
 
 {
 
@@ -319,16 +289,6 @@
         "fascinatingFact":"land of 5 mirages",
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
     },
-    {
-        "id":18,
-        "place":" Savannah ",
-        "country":"Georgia",
-        "photo":"https://en.wikipedia.org/wiki/File:A_cross_section_of_luch_green_valley_of_Ziro.jpg",
-        "Language":["Bengali"],
-        "famousFor":"beautiful valleys, lush green valleys, rich tribal culture",
-        "fascinatingFact":"Ziro is a town and the district headquarters of the Lower Subansiri district in the Indian state of Arunachal Pradesh. It is included the Tentative List for UNESCO's World Heritage Site for the Apatani cultural landscape.",
-        "howToReach":"https://www.google.com/maps/search/ziro+valley+arunachal+pradesh/@27.5631904,93.8194242,12z/data=!3m1!4b1"
-    },
 
 
 
@@ -343,9 +303,17 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
     },
-
-    {
+         {
         "id":27,
+        "place":" Faroe Islands ",
+        "country":"Faroe Islands",
+        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
+        "fascinatingFact":"Buses are free to use in the capital",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
+
+         },
+    {
+        "id":28,
         "place":" Santorini ",
         "country":"Greece",
         "photo":"http://media.cntraveler.com/photos/56556bab659c4b487486611e/master/pass/oia-santorini-greece-cr-alamy.jpg",
@@ -356,7 +324,7 @@
         },
         
         {
-         "id":28,
+         "id":29,
         "place":" Khidrapur ",
         "country":"India",
         "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.ttravelog.com%2Farticle%2Fimages%2FFB_IMG_1641269641745.jpg&imgrefurl=https%3A%2F%2Fttravelog.com%2Farticles%2Famazing-shri-kopeshwar-temple-khidrapur-cave-kolhapur-district-maharashtra_Bw5.html&tbnid=ulaLRg5u2ErmNM&vet=12ahUKEwjFlf_aib36AhVxidgFHW-QABQQMygDegUIARD0AQ..i&docid=zRgd5zrLHhH1JM&w=765&h=941&q=khidrapur&ved=2ahUKEwjFlf_aib36AhVxidgFHW-QABQQMygDegUIARD0AQ",
@@ -366,7 +334,7 @@
         "howToReach":" https://www.google.com/maps/place/Khidrapur,+Maharashtra+416108/@16.6155901,74.6802521,16z/data=!3m1!4b1!4m5!3m4!1s0x3bc0dc00e56f298b:0xfac8eeb8b2e94db1!8m2!3d16.615046!4d74.685418"
 },
        {
-        "id":29,
+        "id":30,
         "place":" himalaya ",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
@@ -379,7 +347,7 @@
 
 
     {
-        "id":30,
+        "id":31,
         "place":" Ecuador ",
         "country":"Ecuador",
         "photo":"https://images.squarespace-cdn.com/content/v1/5a87961cbe42d637c54cab93/1607001590210-X9SY24OUONTXUUYZZYLJ/best-places-to-visit-in-ecuador-south-america-travel-guide.jpg?format=1000w",
@@ -389,7 +357,7 @@
     },
 
     {
-        "id":31,
+        "id":32,
         "place":" Lakshadweep",
         "country":"India",
         "photo":"https://www.holidify.com/images/bgImages/LAKSHADWEEP-ISLANDS.jpg",
@@ -398,17 +366,17 @@
         "howToReach":"https://lakshadweep.gov.in/how-to-reach/#:~:text=Lakshadweep%20Island%20can%20be%20reached,Airlines%20operate%20flights%20from%20Kochi. "
     },
     {
-        "id":32,
+        "id":33,
         "place":" narsivhan temple ",
         "country":"india",
-        "photo":"https://www.google.com/search?q=temple+halshi+vadikarad&tbm=isch&ved=2ahUKEwjM4qevhr36AhUkktgFHe_oAZUQ2-cCegQIABAA&oq=temple+halshi+vadikarad&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQHhAHOgYIABAeEAg6BAgAEBg6CwgAEIAEELEDEIMBOgUIABCABDoECAAQQzoICAAQHhAIEAc6BggAEAoQGDoGCAAQHhAFUOELWIdKYK9MaABwAHgAgAHBAYgB3xiSAQQwLjIxmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=gyg3Y4yVBKSk4t4P79GHqAk&bih=571&biw=1229&rlz=1C1FKPE_enIN974IN974"
+        "photo":"https://www.google.com/search?q=temple+halshi+vadikarad&tbm=isch&ved=2ahUKEwjM4qevhr36AhUkktgFHe_oAZUQ2-cCegQIABAA&oq=temple+halshi+vadikarad&gs_lcp=CgNpbWcQAzoECCMQJzoGCAAQHhAHOgYIABAeEAg6BAgAEBg6CwgAEIAEELEDEIMBOgUIABCABDoECAAQQzoICAAQHhAIEAc6BggAEAoQGDoGCAAQHhAFUOELWIdKYK9MaABwAHgAgAHBAYgB3xiSAQQwLjIxmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=gyg3Y4yVBKSk4t4P79GHqAk&bih=571&biw=1229&rlz=1C1FKPE_enIN974IN974",
         "Language":["India"],
         "famousFor":"ancient structure and arts",
         "fascinatingFact":"the designing on the huge rocks",
         "howToReach":" https://goo.gl/maps/XSDPBx2hqwkApJZz8"
     },
     {
-        "id":33,
+        "id":34,
         "place":"Karjat hills",
         "country":"India",
         "photo":"https://www.hillstationboss.com/karjat/",
@@ -426,8 +394,7 @@
         "famousFor":"Shivaji Maharaj, Trekking, Forest area",
         "fascinatingFact":"This Fort has first constructed in the year 1178 AD by Raja Bhoj II, the famous ruler of Shilahara, after which this fort was rebuilt in the year 1489 by Adil Shah I",
         "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
-
-    
+   },
     {
         "id":35,
         "place":" Tarkarli ",
@@ -452,14 +419,14 @@
         "id":37,
         "place":" agashiv hills ",
         "country":"india",
-        "photo":"https://www.google.com/search?q=agashiv+hillskarad&tbm=isch&ved=2ahUKEwj20vqvhL36AhVjgGMGHXNzBUIQ2-cCegQIABAA&oq=agashiv+hillskarad&gs_lcp=CgNpbWcQAzIICAAQHhAIEAc6BAgjECc6BAgAEEM6CwgAEIAEELEDEIMBOgUIABCABDoGCAAQHhAHOgYIABAeEAg6BAgAEBhQyyFYjkVg3kZoAHAAeACAAagBiAGsE5IBBDAuMTeYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=ayY3Y7bxIeOAjuMP8-aVkAQ&bih=571&biw=1229&rlz=1C1FKPE_enIN974IN974"
-        "Language":["marathi
-        "famousFor":"nature and greenery
-        "fascinatingFact":"shivas temple at top of hill"
+        "photo":"https://www.google.com/search?q=agashiv+hillskarad&tbm=isch&ved=2ahUKEwj20vqvhL36AhVjgGMGHXNzBUIQ2-cCegQIABAA&oq=agashiv+hillskarad&gs_lcp=CgNpbWcQAzIICAAQHhAIEAc6BAgjECc6BAgAEEM6CwgAEIAEELEDEIMBOgUIABCABDoGCAAQHhAHOgYIABAeEAg6BAgAEBhQyyFYjkVg3kZoAHAAeACAAagBiAGsE5IBBDAuMTeYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=ayY3Y7bxIeOAjuMP8-aVkAQ&bih=571&biw=1229&rlz=1C1FKPE_enIN974IN974",
+        "Language":["marathi",
+        "famousFor","nature and greenery"],
+        "fascinatingFact":"shivas temple at top of hill",
         "howToReach":" https://goo.gl/maps/y1WEJ3CCAGSmGJsbA"
-        }
+        },
            
-           {
+        {
         "id":38,
         "place":" Ziro ",
         "country":"India",
@@ -510,7 +477,7 @@
     "photo":"https://lp-cms-production.imgix.net/news/2018/01/taj-mahal-visitor-limits.jpg?w=1200&sharp=10&vib=20",
     "Language":["Hindi"],
     "fascinatingFact":"memory of Mumtaj Mahal",
-    "howToReach":"https://www.google.com/maps/place/Taj+Mahal/@27.1751448,78.0399535,17z/data=!3m1!4b1!4m5!3m4!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422",
+    "howToReach":"https://www.google.com/maps/place/Taj+Mahal/@27.1751448,78.0399535,17z/data=!3m1!4b1!4m5!3m4!1s0x39747121d702ff6d:0xdd2ae4803f767dde!8m2!3d27.1751448!4d78.0421422"
 },
 
     {
@@ -537,8 +504,8 @@
 
 
 
-        {
-    "id"=45,
+    {
+    "id": 45,
     "place":"Paleshwar",
     "country":"India",
     "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNQq-jxB67PQ-YRj0o4oWlibGVMyGA2O0olDr8o%3Dw296-h202-n-k-no-v1&imgrefurl=https%3A%2F%2Fwww.google.co.in%2Ftravel%2Fentity%2Fkey%2FChoI4d6D5qfsrpqFARoNL2cvMTFydDFyZmp4chAE&tbnid=err3qpl24J71-M&vet=12ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ..i&docid=AekT0t6z3pMTGM&w=296&h=202&q=paleshwar&ved=2ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ",
@@ -573,7 +540,7 @@
         "place":"calagry",
         "country":"Canada",
         "photo":"https://www.google.com/search?q=calgary&rlz=1C1RXQR_enIN1025IN1025&source=lnms&tbm=isch&sa=X&ved=2ahUKEwip-ZSWoL36AhUxXnwKHZ9SCwAQ_AUoA3oECAMQBQ&biw=1536&bih=746&dpr=1.25",
-        "Language":["English"]
+        "Language":["English"],
         "famousFor":"Cosmopolitan Feel",
         "fascinatingFact":"Calgary, a city with a cosmopolitan feel and a rural heritage, is located in the foothills of the Canadian Rockies. While some only visit to experience the famous mountains, there's much more to do — whether you're taking in an exhibit at the Glenbow Museum, which specializes in art and artifacts from Western Canada, or checking out the local foodie scene at the Calgary Farmers' Market.",
         "howToReach":"https://www.google.com/maps/place/Calgary,+AB,+Canada/@51.0272883,-114.3680132,10z/data=!3m1!4b1!4m5!3m4!1s0x537170039f843fd5:0x266d3bb1b652b63a!8m2!3d51.0447331!4d-114.0718831?hl=en"
@@ -583,7 +550,7 @@
        "place":"Hulunbuir Grasslands, Inner Mongolia",
         "country":"China",
         "photo":"https://i.pinimg.com/originals/60/c2/18/60c218a598f20912ca66b1c373c6bbed.jpg",
-        "Language":["Chinese"]
+        "Language":["Chinese"], 
         "famousFor":"Grasslands",
         "fascinatingFact":"natural grassland coverage of about 80%. Its lush plants, unpolluted air, flocks and herds, unique ethnic culture, and Genghis Khan history fascinate and attract people for a visit.",
         "howToReach":"https://www.bing.com/maps?q=Hulunbuir+Grasslands%2c+Inner+Mongolia&FORM=HDRSC4"
@@ -592,7 +559,7 @@
         "id":50,
         "place":" Kaas Plateau ",
         "country":"India",
-        "photo":"https:"https://www.google.com/search?q=kaas+plateau&sxsrf=ALiCzsYCxOERZL83Lq6QJYGHzCYfuWQFmQ:1664562442660&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiLp-eokr36AhXyTmwGHWc_CqoQ_AUoAXoECAMQAw&biw=1366&bih=671&dpr=1#imgrc=swKNZmD-EQZOnM ",
+        "photo":"https://www.google.com/search?q=kaas+plateau&sxsrf=ALiCzsYCxOERZL83Lq6QJYGHzCYfuWQFmQ:1664562442660&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiLp-eokr36AhXyTmwGHWc_CqoQ_AUoAXoECAMQAw&biw=1366&bih=671&dpr=1#imgrc=swKNZmD-EQZOnM ",
         "Language":["Marathi, English, Hindi"],
         "famousFor":"overwhelming carpets of flowers which come alive by the fag end of the monsoons",
         "fascinatingFact":" more than 150 or more types of flowers, shrubs and grasses.",
@@ -601,7 +568,6 @@
 
 
 
-    },
        {
         "id":51,
         "place":"Ziro Valley – Arunachal Pradesh",
@@ -623,9 +589,9 @@
         "fascinatingFact":"Beauty of India",
         "howToReach":"https://www.makemytrip.com/travel-guide/shillong/how-to-reach.html"   
 
-}
-      {
-        "id":53,
+},
+    {
+        "id":52,
         "place":"Chopta, Uttarakhand",
         "country":"India",
         "photo":"https://assets.traveltriangle.com/blog/wp-content/uploads/2016/09/A-winter-snap-of-the-snowcapped-Himalayas-and-the-Tungnath-Temple-in-Chopta.jpg",
@@ -635,8 +601,8 @@
         "howToReach":"https://www.google.com/maps/place/Tungnath/@30.4886998,79.2170211,15z/data=!4m2!3m1!1s0x0:0xc9d695bd8994120a?sa=X&hl=en&ved=2ahUKEwiT0MHDo736AhW57zgGHTDzCPMQ_BJ6BQiGARAF"
 
     },
-        {
-        "id":54,
+    {
+        "id":53,
         "place":" shree Dwarkadhish Temple, Mathura",
         "country":"India",
         "photo":" https://www.google.com/imgres?imgurl=https%3A%2F%2Fnavbharattimes.indiatimes.com%2Fphoto%2Fmsid-84288331%2Cimgsize-150586%2Fpic.jpg&imgrefurl=https%3A%2F%2Fnavbharattimes.indiatimes.com%2Ftravel%2Freligious-trip%2Ftemples-in-mathura-vrindavan-in-hindi%2Farticleshow%2F84288331.cms&tbnid=2V04Jdu5p6ucaM&vet=12ahUKEwiXquKEpb36AhVI_jgGHQR-DHwQMygAegUIARDHAQ..i&docid=teX5oYQn5lcvNM&w=1200&h=900&q=mathura%20up%20temple&ved=2ahUKEwiXquKEpb36AhVI_jgGHQR-DHwQMygAegUIARDHAQ",
@@ -645,18 +611,7 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":"https://mathura.nic.in/how-to-reach/"
 
-    },
-    
-     {
-        "id":55,
-        "place":"GanganBavda",
-        "country":"India",
-        "photo":"https://images.app.goo.gl/dKhMYTw3bfMA22Ce7",
-        "Language":["Marathi"],
-        "famousFor":"HIKING",
-        "fascinatingFact":"Natural Beauty",
-        "howToReach":"https://goo.gl/maps/NbD2H2J45R2Hy51J8"
-        
-        }
+    }
+
 
 ]
