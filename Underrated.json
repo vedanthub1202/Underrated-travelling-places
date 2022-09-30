@@ -184,12 +184,12 @@
        "id":17 ,
         "place":"Naneghat",
         "country":"india",
-        "photo:"https://www.alamy.com/stock-photo/naneghat.jpg",
+        "photo":"https://www.alamy.com/stock-photo/naneghat.jpg",
         "Language":["indian"],
         "famousFor":"reverse waterfall",
         "fascinatingFact":"scenic views",
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
-    }
+    },
 
     
      {
@@ -202,7 +202,7 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
-        }
+        },
 {
 
        "id":19,
