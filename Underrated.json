@@ -210,5 +210,14 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
-
+{
+    "id"="18",
+    "place":"Paleshwar",
+    "country":"India",
+    "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNQq-jxB67PQ-YRj0o4oWlibGVMyGA2O0olDr8o%3Dw296-h202-n-k-no-v1&imgrefurl=https%3A%2F%2Fwww.google.co.in%2Ftravel%2Fentity%2Fkey%2FChoI4d6D5qfsrpqFARoNL2cvMTFydDFyZmp4chAE&tbnid=err3qpl24J71-M&vet=12ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ..i&docid=AekT0t6z3pMTGM&w=296&h=202&q=paleshwar&ved=2ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ",
+    "Language":["Marathi"],
+    "famousFor":"The dam is situated at 45km away from Kolhapur",
+     "fascinatingFact":"Water Fall and Boating",
+     "how to reach":"https://www.google.com/maps/search/paleshwar/@16.8964562,73.8772799,15.48z"
+},
 ]
