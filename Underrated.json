@@ -605,8 +605,22 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":"https://mathura.nic.in/how-to-reach/"
 
+    },
+    
+     {
+        "id":55,
+        "place":"GanganBavda",
+        "country":"India",
+        "photo":"https://images.app.goo.gl/dKhMYTw3bfMA22Ce7",
+        "Language":["Marathi"],
+        "famousFor":"HIKING",
+        "fascinatingFact":"Natural Beauty",
+        "howToReach":"https://goo.gl/maps/NbD2H2J45R2Hy51J8"
+        
+        }
 
-    }
+
+
 
 
 ]
