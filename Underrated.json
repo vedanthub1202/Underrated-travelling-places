@@ -189,9 +189,10 @@
         "famousFor":"reverse waterfall",
         "fascinatingFact":"scenic views",
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
-    }
+    },
      {
-       "id":18 ,
+       "id":18,
+
         "place":"Dandoba",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCg6kXWLzy_M&psig=AOvVaw0zD5RWsoVYMowOAt4LX7ia&ust=1664640966961000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjhi4T1vPoCFQAAAAAdAAAAABAD",
@@ -199,9 +200,111 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
-    }
+    },
+
     {
-        "id":19,
+       "id":19,
+        "place":"Bhilawadi Station",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Findiarailinfo.com%2Fstation%2Fmap%2Fbhilavdi-bvq%2F2242&psig=AOvVaw0WuWTFQAua2SMnbSd3Xorz&ust=1664642721026000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJicw8P7vPoCFQAAAAAdAAAAABAE",
+        "Language":["Marathi"],
+        "famousFor":"Chitale Milk Dairy",
+        "fascinatingFact":"Very good milk Products",
+        "howToReach":"https://www.google.com/maps?q=bhilawadi+railway+station&source=lmns&bih=760&biw=1536&rlz=1C1CHZN_enIN949IN949&hl=en&sa=X&ved=2ahUKEwiB3-TB-7z6AhUXj9gFHSEBAa4Q_AUoAXoECAEQAQ"
+    }
+
+{
+
+        "id":20,
+        "place":" Savannah ",
+        "country":"Georgia",
+        "photo":"https://travel.home.sndimg.com/content/dam/images/travel/stock/2018/4/5/0/GettyImages-504850010_joe-daniel-price_Savannah-Georgia.jpg.rend.hgtvcom.966.644.suffix/1523051076570.jpeg ",
+        "Language":["English, Georgian"],
+        "famousFor":"Beloved for its romantic architecture, colorful history and ethereal, sphagnum-draped trees, the city is fast adding hotel rooms to accommodate a swell of visitors",
+        "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
+        "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
+
+    },
+
+     "id":21,
+        "place":"Harvalem Waterfalls",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.trawell.in%2Fgoa%2Fpanjim%2Farvalem-waterfalls&psig=AOvVaw2JWY17LCvRBsY5GEABpj82&ust=1664645164585000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiHutCEvfoCFQAAAAAdAAAAABAD ",
+        "Language":["English, Hindi,Marathi"],
+        "famousFor":"most famous waterfall in north goa",
+        "fascinatingFact":"well known scenic waterfall with a multi-level viewing area is large during monsoon season",
+        "howToReach":"https://www.google.com/maps/place/Harvalem+Waterfalls/@15.5510768,74.024463,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfbd4c54c04655:0x623633fe068aab4b!8m2!3d15.5510768!4d74.0266517"
+}
+
+    
+
+
+ {
+        "id":22,
+        "place":" Goa ",
+        "country":"India",
+        "photo":"https://www.gettyimages.in/photos/goa-tourist ",
+        "Language":["English, Hindi"],
+        "famousFor":"Beloved for its romantic dates, parties in clubs, beuty of beaches and night life of Goa",
+        "fascinatingFact":" Asia’s Only Naval Aviation Museum is at Goa",
+        "howToReach":" https://www.google.com/maps/dir//Goa/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3bbfba106336b741:0xeaf887ff62f34092!3e0?sa=X&ved=2ahUKEwj8vaGmhL36AhXq-jgGHTHdDkAQ-A96BAhSEAw"
+    },
+    
+    {
+        "id":23,
+        "place":" El Nicho Waterfalls ",
+        "country":"Cuba",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
+        "Language":["English, Spanish"],
+        "famousFor":"The waterfall is attractive and flows throughout the year, even during the dry season.",
+        "howToReach":" https://www.google.com/maps/place/Cascate+El+nicho/@22.0281425,-80.1335324,17z/data=!3m1!4b1!4m5!3m4!1s0x8f2b20ce1ef24b37:0xe576dbd48cbe30b9!8m2!3d22.0281425!4d-80.1313437?hl=en"
+    },
+    
+    {
+        "id":24,
+        "place":"Kaas Plateau",
+        "country":"India",
+        "photo":"https://www.kas.ind.in/creative/upload/kas%2028%20sept%204.png",
+        "Language":["Marathi"],
+        "famousFor":"Flower Valley",
+        "fascinatingFact":"It is a high hill plateau and with the onset of monsoon season, the grassland springs to life and changes into a land of flowers",
+        "howToReach":"https://www.india.com/travel/articles/pune-to-kaas-plateau-how-to-reach-kaas-plateau-from-pune-by-road-3239032/"   
+},
+      {
+        "id":25,
+        "place":" Pokaran ",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
+        "Language":["Marwadi, English, Hindi"],
+        "famousFor":"Salamsagar Talab, Pokaran fort , Nuclear",
+        "fascinatingFact":"land of 5 mirages",
+        "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
+    },
+
+
+        "id":26,
+        "place":"kolhapur ",
+        "country":"india",
+        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
+        "Language":[" English, marathi,hindi"],
+        "famousFor":"Bird Watching, Hiking,forts,rankala lake,mesuem, Pinterest-worthy waterfalls, Unrivaled natural beauty:*",
+        "fascinatingFact":"Buses are free to use in the capital",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
+    },
+    
+    {
+    "id"="27",
+    "place":"Paleshwar",
+    "country":"India",
+    "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNQq-jxB67PQ-YRj0o4oWlibGVMyGA2O0olDr8o%3Dw296-h202-n-k-no-v1&imgrefurl=https%3A%2F%2Fwww.google.co.in%2Ftravel%2Fentity%2Fkey%2FChoI4d6D5qfsrpqFARoNL2cvMTFydDFyZmp4chAE&tbnid=err3qpl24J71-M&vet=12ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ..i&docid=AekT0t6z3pMTGM&w=296&h=202&q=paleshwar&ved=2ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ",
+    "Language":["Marathi"],
+    "famousFor":"The dam is situated at 45km away from Kolhapur",
+     "fascinatingFact":"Water Fall and Boating",
+     "how to reach":"https://www.google.com/maps/search/paleshwar/@16.8964562,73.8772799,15.48z"
+},
+
+    {
+        "id":28,
         "place":" Santorini ",
         "country":"Greece",
         "photo":"http://media.cntraveler.com/photos/56556bab659c4b487486611e/master/pass/oia-santorini-greece-cr-alamy.jpg",
@@ -209,6 +312,7 @@
         "famousFor":"The volcanic island in the Aegean Sea is mostly known for its quaint, whitewashed villages atop sheer, rugged cliffs, the brilliantly blue shutters and rooftops mirroring the summer sky.",
         "fascinatingFact":"Beautiful Island",
         "howToReach":"https://goo.gl/maps/m9PibiL82WC9PcYM7"
-    },
+        }
+
 
 ]
