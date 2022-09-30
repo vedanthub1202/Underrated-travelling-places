@@ -533,9 +533,19 @@
         "famousFor":"Cosmopolitan Feel",
         "fascinatingFact":"Calgary, a city with a cosmopolitan feel and a rural heritage, is located in the foothills of the Canadian Rockies. While some only visit to experience the famous mountains, there's much more to do — whether you're taking in an exhibit at the Glenbow Museum, which specializes in art and artifacts from Western Canada, or checking out the local foodie scene at the Calgary Farmers' Market.",
         "howToReach":"https://www.google.com/maps/place/Calgary,+AB,+Canada/@51.0272883,-114.3680132,10z/data=!3m1!4b1!4m5!3m4!1s0x537170039f843fd5:0x266d3bb1b652b63a!8m2!3d51.0447331!4d-114.0718831?hl=en"
-    },
+   },
+   {
+       "id":49,
+       "place":"Hulunbuir Grasslands, Inner Mongolia",
+        "country":"China",
+        "photo":"https://i.pinimg.com/originals/60/c2/18/60c218a598f20912ca66b1c373c6bbed.jpg",
+        "Language":["Chinese"]
+        "famousFor":"Grasslands",
+        "fascinatingFact":"natural grassland coverage of about 80%. Its lush plants, unpolluted air, flocks and herds, unique ethnic culture, and Genghis Khan history fascinate and attract people for a visit.",
+        "howToReach":"https://www.bing.com/maps?q=Hulunbuir+Grasslands%2c+Inner+Mongolia&FORM=HDRSC4"
+   },
      {
-        "id":49,
+        "id":50,
         "place":" Kaas Plateau ",
         "country":"India",
         "photo":"https:"https://www.google.com/search?q=kaas+plateau&sxsrf=ALiCzsYCxOERZL83Lq6QJYGHzCYfuWQFmQ:1664562442660&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiLp-eokr36AhXyTmwGHWc_CqoQ_AUoAXoECAMQAw&biw=1366&bih=671&dpr=1#imgrc=swKNZmD-EQZOnM ",
