@@ -189,9 +189,9 @@
         "famousFor":"reverse waterfall",
         "fascinatingFact":"scenic views",
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
-    }
+    },
      {
-       "id":17 ,
+       "id":18,
         "place":"Dandoba",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCg6kXWLzy_M&psig=AOvVaw0zD5RWsoVYMowOAt4LX7ia&ust=1664640966961000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjhi4T1vPoCFQAAAAAdAAAAABAD",
@@ -199,9 +199,21 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
-    }
+    },
+
     {
-        "id":17,
+       "id":19,
+        "place":"Bhilawadi Station",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Findiarailinfo.com%2Fstation%2Fmap%2Fbhilavdi-bvq%2F2242&psig=AOvVaw0WuWTFQAua2SMnbSd3Xorz&ust=1664642721026000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJicw8P7vPoCFQAAAAAdAAAAABAE",
+        "Language":["Marathi"],
+        "famousFor":"Chitale Milk Dairy",
+        "fascinatingFact":"Very good milk Products",
+        "howToReach":"https://www.google.com/maps?q=bhilawadi+railway+station&source=lmns&bih=760&biw=1536&rlz=1C1CHZN_enIN949IN949&hl=en&sa=X&ved=2ahUKEwiB3-TB-7z6AhUXj9gFHSEBAa4Q_AUoAXoECAEQAQ"
+    }
+
+    {
+        "id":20,
         "place":" Savannah ",
         "country":"Georgia",
         "photo":"https://travel.home.sndimg.com/content/dam/images/travel/stock/2018/4/5/0/GettyImages-504850010_joe-daniel-price_Savannah-Georgia.jpg.rend.hgtvcom.966.644.suffix/1523051076570.jpeg ",
@@ -210,16 +222,46 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
-
  {
-        "id":52,
-        "place":"Garni Gorge",
-        "country":"Armenia",
-        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
-        "Language":["Armenium"],
-        "famousFor":"Mountains",
-        "fascinatingFact":"Hot girls",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-armenia:* "   
+        "id":21,
+        "place":" Goa ",
+        "country":"India",
+        "photo":"https://www.gettyimages.in/photos/goa-tourist ",
+        "Language":["English, Hindi"],
+        "famousFor":"Beloved for its romantic dates, parties in clubs, beuty of beaches and night life of Goa",
+        "fascinatingFact":" Asia’s Only Naval Aviation Museum is at Goa",
+        "howToReach":" https://www.google.com/maps/dir//Goa/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3bbfba106336b741:0xeaf887ff62f34092!3e0?sa=X&ved=2ahUKEwj8vaGmhL36AhXq-jgGHTHdDkAQ-A96BAhSEAw"
     },
+    
+    {
+        "id":21,
+        "place":" El Nicho Waterfalls ",
+        "country":"Cuba",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.123rf.com%2Fphoto_142578021_el-nicho-waterfalls-in-cuba-el-nicho-is-located-inside-the-gran-parque-natural-topes-de-collantes-a-.html&psig=AOvVaw0Yr9j-h99dp8L9OH7fAKSz&ust=1664642940732000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjQmKv8vPoCFQAAAAAdAAAAABAS",
+        "Language":["English, Spanish"],
+        "famousFor":"The waterfall is attractive and flows throughout the year, even during the dry season.",
+        "howToReach":" https://www.google.com/maps/place/Cascate+El+nicho/@22.0281425,-80.1335324,17z/data=!3m1!4b1!4m5!3m4!1s0x8f2b20ce1ef24b37:0xe576dbd48cbe30b9!8m2!3d22.0281425!4d-80.1313437?hl=en"
+    },
+    
+    {
+        "id":22,
+        "place":"Kaas Plateau",
+        "country":"India",
+        "photo":"https://www.kas.ind.in/creative/upload/kas%2028%20sept%204.png",
+        "Language":["Marathi"],
+        "famousFor":"Flower Valley",
+        "fascinatingFact":"It is a high hill plateau and with the onset of monsoon season, the grassland springs to life and changes into a land of flowers",
+        "howToReach":"https://www.india.com/travel/articles/pune-to-kaas-plateau-how-to-reach-kaas-plateau-from-pune-by-road-3239032/"   
+},
+      {
+        "id":23,
+        "place":" Pokaran ",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
+        "Language":["Marwadi, English, Hindi"],
+        "famousFor":"Salamsagar Talab, Pokaran fort , Nuclear",
+        "fascinatingFact":"land of 5 mirages",
+        "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
+    }
 
 ]
