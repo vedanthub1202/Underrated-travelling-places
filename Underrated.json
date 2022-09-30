@@ -291,6 +291,8 @@
     },
 
 
+
+
     {
         "id":26,
         "place":"kolhapur ",
@@ -301,17 +303,14 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
     },
-    
-    {
-    "id"=27,
-    "place":"Paleshwar",
-    "country":"India",
-    "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNQq-jxB67PQ-YRj0o4oWlibGVMyGA2O0olDr8o%3Dw296-h202-n-k-no-v1&imgrefurl=https%3A%2F%2Fwww.google.co.in%2Ftravel%2Fentity%2Fkey%2FChoI4d6D5qfsrpqFARoNL2cvMTFydDFyZmp4chAE&tbnid=err3qpl24J71-M&vet=12ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ..i&docid=AekT0t6z3pMTGM&w=296&h=202&q=paleshwar&ved=2ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ",
-    "Language":["Marathi"],
-    "famousFor":"The dam is situated at 45km away from Kolhapur",
-     "fascinatingFact":"Water Fall and Boating",
-     "how to reach":"https://www.google.com/maps/search/paleshwar/@16.8964562,73.8772799,15.48z"
-},
+         {
+        "id":27,
+        "place":" Faroe Islands ",
+        "country":"Faroe Islands",
+        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
+        "fascinatingFact":"Buses are free to use in the capital",
+        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
+
 
     {
         "id":28,
@@ -481,7 +480,7 @@
         "famousFor":"Waterfall",
         "fascinatingFact":"Chapdoh Provides water to almost evry home in yavatmal",
         "howToReach":"https://www.google.com/maps?q=chadoh+dam+yavatmal&source=lmns&bih=984&biw=1920&hl=en&sa=X&ved=2ahUKEwjEjrjxmL36AhVUKbcAHQ6nD04Q_AUoAXoECAEQAQ"
-    }
+    },
 
    {
         "id":44,
@@ -493,8 +492,39 @@
         "fascinatingFact":"senic view of krishna river and ganapati darshan",
         "howToReach":"https://www.google.co.in/search?q=sangli+ganapati+mandir&btnK=Google+Search&sxsrf=ALeKk00YbAxo6IkkQAAKDm9B87-Uqn5-fA%3A1625967546708&source=hp&ei=ukvqYNvjJ8aJoASNxoyQDQ&iflsig=AINFCbYAAAAAYOpZyibPbvMK9JwmaKP5L0JCbwFheDPR&oq=oyo+rooms+leaked+footage&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjEOoCECc6BwguEOoCECc6BAgjECc6CAgAELEDEIMBOhEILhCxAxCDARDHARCjAhCTAjoCCAA6BQguELEDOggILhDHARCvAToFCAAQsQM6CAguELEDEIMBOhQILhCxAxCDARDHARCjAhDJAxCTAjoFCAAQkgM6BQgAEMkDOgYIABAWEB46AggmOggIIRAWEB0QHlD-HVjnfGCKgQFoAXAAeACAAesCiAHeIJIBCDAuMjIuMS4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=gws-wiz&ved=0ahUKEwjbqKOQ8dnxAhXGBIgKHQ0jA9IQ4dUDCAc&uact=5#"
     },
+
+        {
+    "id"=45,
+    "place":"Paleshwar",
+    "country":"India",
+    "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNQq-jxB67PQ-YRj0o4oWlibGVMyGA2O0olDr8o%3Dw296-h202-n-k-no-v1&imgrefurl=https%3A%2F%2Fwww.google.co.in%2Ftravel%2Fentity%2Fkey%2FChoI4d6D5qfsrpqFARoNL2cvMTFydDFyZmp4chAE&tbnid=err3qpl24J71-M&vet=12ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ..i&docid=AekT0t6z3pMTGM&w=296&h=202&q=paleshwar&ved=2ahUKEwikhrHchb36AhU2ObcAHSL0CJ0QMygBegUIARC5AQ",
+    "Language":["Marathi"],
+    "famousFor":"The dam is situated at 45km away from Kolhapur",
+     "fascinatingFact":"Water Fall and Boating",
+     "how to reach":"https://www.google.com/maps/search/paleshwar/@16.8964562,73.8772799,15.48z"
+},
+{
+        "id":46,
+        "place":" Harishchandra Fort ",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thrillophilia.com%2Ftours%2Fharishchandragad-nashik-trekking-from-mumbai&psig=AOvVaw2JrJ_Wihi0XY-Qyy8DLO3c&ust=1664643488865000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPiVr7D-vPoCFQAAAAAdAAAAABAE",
+        "Language":["Hindi, Marathi, English"],
+        "famousFor":"Harishchandra Fort is a hill fort in the Ahmednagar district of India. Its history is linked with that of Malshej Ghat, kothale village and it has played a major role in guarding and controlling the surrounding region.",
+        "fascinatingFact":"It's one of the most peaceful and beautiful places in Maharashtra.",
+        "howToReach":" https://goo.gl/maps/eFdmHkvVrYa9kifv9"
+    },
+    {
+        "id":47,
+        "place":"Andaman And Nicobar Island",
+        "country":"India",
+        "photo":"https://www.google.com/search?q=andaman+and+nicobar+islands&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiJ07WRj736AhV8cGwGHUmKDt0Q_AUoAnoECAIQBA&biw=1846&bih=943&dpr=1#imgrc=gJ-0oe41oXJ6eM",
+        "Language":["Hindi,English"],
+        "famousFor":"white-sand beaches and palm lined shorelines along with one of the greatest underwater biodiversity housing corals and sea dwellers. ",
+        "fascinatingFact":"The largest sea turtles in the world nest here",
+        "howToReach":"https://www.google.com/maps/place/Andaman+and+Nicobar+Islands/@10.2154824,93.250342,7z/data=!3m1!4b1!4m5!3m4!1s0x3064a00f2b650ff3:0xce80055648fccb2c!8m2!3d11.7400867!4d92.6586401?hl=en"
+},
    {
-        "id":45,
+        "id":48,
         "place":"calagry",
         "country":"Canada",
         "photo":"https://www.google.com/search?q=calgary&rlz=1C1RXQR_enIN1025IN1025&source=lnms&tbm=isch&sa=X&ved=2ahUKEwip-ZSWoL36AhUxXnwKHZ9SCwAQ_AUoA3oECAMQBQ&biw=1536&bih=746&dpr=1.25",
