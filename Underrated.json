@@ -179,7 +179,6 @@
         "fascinatingFact":"a huge crater lake renowned for its bright-blue color and surrounding forests",
         "howToReach":"https://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105054884937303084940.000484a2122598d1532db&ll=40.721242,141.031494&spn=0.291426,0.808868&z=10&output=embed"
     },
-    
         {
        "id":17 ,
         "place":"Naneghat",
@@ -189,10 +188,9 @@
         "famousFor":"reverse waterfall",
         "fascinatingFact":"scenic views",
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
-    },
-    
+    }
      {
-       "id":18 ,
+       "id":18,
         "place":"Dandoba",
         "country":"India",
         "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCg6kXWLzy_M&psig=AOvVaw0zD5RWsoVYMowOAt4LX7ia&ust=1664640966961000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjhi4T1vPoCFQAAAAAdAAAAABAD",
@@ -200,7 +198,8 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
-        },
+    },
+
     {
        "id":19,
         "place":"Bhilawadi Station",
@@ -252,6 +251,8 @@
         "fascinatingFact":" Asia’s Only Naval Aviation Museum is at Goa",
         "howToReach":" https://www.google.com/maps/dir//Goa/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3bbfba106336b741:0xeaf887ff62f34092!3e0?sa=X&ved=2ahUKEwj8vaGmhL36AhXq-jgGHTHdDkAQ-A96BAhSEAw"
     },
+   
+
     {
         "id":23,
         "place":" El Nicho Waterfalls ",
@@ -392,13 +393,14 @@
         "howToReach":"https://www.google.com/maps?q=fact+about+tarkarli+map&sxsrf=ALiCzsY2Fm6DnXeCKbg0gOA-AQftCxWOTg:1664560361112&uact=5&gs_lp=Egdnd3Mtd2l6uAED-AEBMgcQIRigARgKMgcQIRigARgKwgIKEAAYRxjWBBiwA8ICCBAAGB4YDRgFwgIFEAAYhgOQBghI0g1QzQVYswtwAXgByAEAkAEAmAGyAaAB4wSqAQMwLjTiAwQgQRgA4gMEIEYYAIgGAQ&um=1&ie=UTF-8&sa=X&ved=2ahUKEwju9frair36AhWBHXAKHVi_CysQ_AUoA3oECAEQBQ"
     },
     {
-            "id":36,
-        "place":" panhala ",
-        "country":"india",
-        "photo":"https://images.app.goo.gl/bWJHbY2MpkoUyP5T8",
+        "id":37,
+        "place":"Pachdahra",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcxvAL70mPTQ&psig=AOvVaw0Hc2S7EmtrUjHK3BQUDYNs&ust=1664650249812000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjpyPzhvfoCFQAAAAAdAAAAABAD",
         "Language":["Marathi"],
-        "famousFor":"beautiful valleys, lush green valleys, rich tribal culture,beautiful fort",
-        "fascinatingFact":"",
-        "howToReach":"https://maharashtraplanet.com/hill-stations-in-maharashtra/panhala/how-to-reach/"
+        "famousFor":"Waterfall",
+        "fascinatingFact":"they say experts stayed here",
+        "howToReach":"https://www.google.com/maps/place/Panchdhar,+Maharashtra+445304/@19.8813598,78.9073702,15z/data=!3m1!4b1!4m5!3m4!1s0x3bd2e40f4806f269:0xe2c024e86162e9ca!8m2!3d19.8835437!4d78.9160943?hl=en"   
     }
+   
 ]
