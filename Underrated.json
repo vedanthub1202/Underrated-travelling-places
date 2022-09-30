@@ -222,14 +222,6 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
-     {
-        "id":48,
-        "place":" Faroe Islands ",
-        "country":"Faroe Islands",
-        "photo":" https://i.natgeofe.com/n/9b84995f-962d-4ac7-84f8-897e065860fc/vagar-island-faroe-islands-denmark_16x9.jpg?w=1200:* ",
-        "fascinatingFact":"Buses are free to use in the capital",
-        "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
-    },
  {
         "id":21,
         "place":" Goa ",
@@ -270,5 +262,19 @@
         "famousFor":"Salamsagar Talab, Pokaran fort , Nuclear",
         "fascinatingFact":"land of 5 mirages",
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
+    },
+       {
+        "id":24,
+        "place":" himalaya ",
+        "country":"India",
+        "photo":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPokhran&psig=AOvVaw2WZ6W3BYWRUfV-epQq9XvU&ust=1664645130167000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMjuhMCEvfoCFQAAAAAdAAAAABAD ",
+        "Language":["Marwadi,tamil, English, Hindi"],
+        "famousFor":"Salamsagar Talab, Pokaran fort , Nuclear",
+        "fascinatingFact":"land of 10 mirages",
+        "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
     }
+
+
+    
+    
 ]
