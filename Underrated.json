@@ -270,6 +270,17 @@
         "famousFor":"Salamsagar Talab, Pokaran fort , Nuclear",
         "fascinatingFact":"land of 5 mirages",
         "howToReach":" https://goo.gl/maps/Szw5WAvqc2pc4gMj6"
-    }
+    },
+    
+    {
+        "id":22,
+        "place":"Ahmednagar",
+        "country":"India",
+        "photo":"https://www.revv.co.in/blogs/wp-content/uploads/2021/06/Sandhan-Valley.jpg",
+        "Language":["Marathi,English,Hindi"],
+        "famousFor":"Rock Climbing,Hiking",
+        "fascinatingFact": "Sandhan valley, The Great Canyon in the Sahyadri ranges which is combination of a canyon and a valley. Located in the Ahmednagar district, India, near the famous fort Ratangad. Sandhan valley is undoubtedly The Valley of Shadows.",
+        "howToReach":"https://www.india.com/travel/articles/how-to-reach-sandhan-valley-in-maharashtra-by-road-train-and-flight-3229808/"   
+}
 
 ]
