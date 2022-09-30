@@ -210,5 +210,15 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
+ {
+        "id":18,
+        "place":" Goa ",
+        "country":"India",
+        "photo":"https://www.gettyimages.in/photos/goa-tourist ",
+        "Language":["English, Hindi"],
+        "famousFor":"Beloved for its romantic dates, parties in clubs, beuty of beaches and night life of Goa",
+        "fascinatingFact":" Asia’s Only Naval Aviation Museum is at Goa",
+        "howToReach":" https://www.google.com/maps/dir//Goa/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0x3bbfba106336b741:0xeaf887ff62f34092!3e0?sa=X&ved=2ahUKEwj8vaGmhL36AhXq-jgGHTHdDkAQ-A96BAhSEAw"
+    },
 
 ]
