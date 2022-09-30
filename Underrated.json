@@ -493,6 +493,7 @@
         "howToReach":"https://www.google.co.in/search?q=sangli+ganapati+mandir&btnK=Google+Search&sxsrf=ALeKk00YbAxo6IkkQAAKDm9B87-Uqn5-fA%3A1625967546708&source=hp&ei=ukvqYNvjJ8aJoASNxoyQDQ&iflsig=AINFCbYAAAAAYOpZyibPbvMK9JwmaKP5L0JCbwFheDPR&oq=oyo+rooms+leaked+footage&gs_lcp=Cgdnd3Mtd2l6EAM6BwgjEOoCECc6BwguEOoCECc6BAgjECc6CAgAELEDEIMBOhEILhCxAxCDARDHARCjAhCTAjoCCAA6BQguELEDOggILhDHARCvAToFCAAQsQM6CAguELEDEIMBOhQILhCxAxCDARDHARCjAhDJAxCTAjoFCAAQkgM6BQgAEMkDOgYIABAWEB46AggmOggIIRAWEB0QHlD-HVjnfGCKgQFoAXAAeACAAesCiAHeIJIBCDAuMjIuMS4xmAEAoAEBqgEHZ3dzLXdperABCg&sclient=gws-wiz&ved=0ahUKEwjbqKOQ8dnxAhXGBIgKHQ0jA9IQ4dUDCAc&uact=5#"
     },
 
+
         {
     "id"=45,
     "place":"Paleshwar",
@@ -553,7 +554,19 @@
         "famousFor":"overwhelming carpets of flowers which come alive by the fag end of the monsoons",
         "fascinatingFact":" more than 150 or more types of flowers, shrubs and grasses.",
         "howToReach":"https://www.google.com/maps/place/Kaas+plateau/@17.7181415,73.8221812,15z/data=!3m1!4b1!4m5!3m4!1s0x3bc2156bb1b31937:0xa05920673b65bbde!8m2!3d17.7208314!4d73.8237159!5m1!1e4?hl=kn"
-    }
+
+    },
+       {
+        "id":51,
+        "place":"Ziro Valley – Arunachal Pradesh",
+        "country":"India",
+        "photo":"https://assets.traveltriangle.com/blog/wp-content/uploads/2015/09/Ziro-Valley-400x264.jpg",
+        "Language":["Hindi"],
+        "famousFor":"Ziro Festival of Music ",
+        "fascinatingFact":"Lush rice fields, gurgling rivers and picture-postcard villages of the Apatani tribe",
+        "howToReach":"Take a bus or shared taxi from Bomdila or Tezpur (also worth checking out). You could also get a cab from either of the points and go directly to Ziro"
+}
+
 
 
 ]
