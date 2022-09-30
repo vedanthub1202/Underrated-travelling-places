@@ -248,10 +248,9 @@
         "famousFor":"Chitale Milk Dairy",
         "fascinatingFact":"Very good milk Products",
         "howToReach":"https://www.google.com/maps?q=bhilawadi+railway+station&source=lmns&bih=760&biw=1536&rlz=1C1CHZN_enIN949IN949&hl=en&sa=X&ved=2ahUKEwiB3-TB-7z6AhUXj9gFHSEBAa4Q_AUoAXoECAEQAQ"
-    },
+    }
 
-{
-
+    {
         "id":20,
         "place":" Savannah ",
         "country":"Georgia",
@@ -260,6 +259,7 @@
         "famousFor":"Beloved for its romantic architecture, colorful history and ethereal, sphagnum-draped trees, the city is fast adding hotel rooms to accommodate a swell of visitors",
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
+
 
     },
      {
@@ -315,8 +315,17 @@
         "howToReach":"https://www.google.com/maps/place/Champhai,+Mizoram+796321/@23.4731343,93.3013776,13z/data=!3m1!4b1!4m5!3m4!1s0x374c5b8df9d456ff:0x1a0f1e708745dd80!8m2!3d23.4565708!4d93.3281929"
     }
 
-{
 
+{
+     "id":18,
+        "place":" Khidrapur ",
+        "country":"India",
+        "photo":"https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.ttravelog.com%2Farticle%2Fimages%2FFB_IMG_1641269641745.jpg&imgrefurl=https%3A%2F%2Fttravelog.com%2Farticles%2Famazing-shri-kopeshwar-temple-khidrapur-cave-kolhapur-district-maharashtra_Bw5.html&tbnid=ulaLRg5u2ErmNM&vet=12ahUKEwjFlf_aib36AhVxidgFHW-QABQQMygDegUIARD0AQ..i&docid=zRgd5zrLHhH1JM&w=765&h=941&q=khidrapur&ved=2ahUKEwjFlf_aib36AhVxidgFHW-QABQQMygDegUIARD0AQ",
+        "Language":["Marathi,hindi"],
+        "famousFor":"Lord Shiva Temple",
+        "fascinatingFact":"sculpyural art",
+        "howToReach":" https://www.google.com/maps/place/Khidrapur,+Maharashtra+416108/@16.6155901,74.6802521,16z/data=!3m1!4b1!4m5!3m4!1s0x3bc0dc00e56f298b:0xfac8eeb8b2e94db1!8m2!3d16.615046!4d74.685418"
+}
 
      "id":21,
         "place":"Harvalem Waterfalls",
@@ -326,7 +335,7 @@
         "famousFor":"most famous waterfall in north goa",
         "fascinatingFact":"well known scenic waterfall with a multi-level viewing area is large during monsoon season",
         "howToReach":"https://www.google.com/maps/place/Harvalem+Waterfalls/@15.5510768,74.024463,17z/data=!3m1!4b1!4m5!3m4!1s0x3bbfbd4c54c04655:0x623633fe068aab4b!8m2!3d15.5510768!4d74.0266517"
-},
+}
 
 
  {
@@ -393,7 +402,6 @@
         "famousFor":"Aamba bhadang, Ganpati Temple",
         "fascinatingFact":"Biggest Ganpati Temple in the shape of Octopus",
         "howToReach":"https://goo.gl/maps/VdFkgyM7CrEWYRWj9"
-
 },
     
     {
@@ -428,6 +436,18 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
     },
+
+    {
+    "id"="27",
+    "place":"thoseghar",
+    "country":"India",
+    "photo":"https://www.google.com/search?q=thoseghar&sxsrf=ALiCzsZv0Csr0brDE6VrC_3Pd22JtfwdgA:1664562579088&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjnl-7pkr36AhUZ6zgGHQbmD4gQ_AUoAnoECAIQBA&biw=1536&bih=718&dpr=1.25",
+    "Language":["Marathi"],
+    "famousFor":"The waterfall is situated at 4-5km away from Satara",
+     "fascinatingFact":"Water Fall",
+     "how to reach":"https://en.wikipedia.org/wiki/Thoseghar_Waterfalls"
+},
+
          {
         "id":27,
         "place":" Faroe Islands ",
@@ -777,6 +797,7 @@
         "fascinatingFact":"Buses are free to use in the capital",
         "howToReach":" https://www.thomascook.in/international-tourism/how-to-reach-faroe-islands:*"
     },
+
 
 
 
