@@ -67,8 +67,7 @@
 
     },
 
-    }
-
+    
     
     {   
         "id":7,
@@ -102,7 +101,6 @@
 
     },
 
-    },
     {
         "id":10,
         "place":"Madagascar",
@@ -113,6 +111,6 @@
         "fascinatingFact":"Most of Madagascar’s wildlife is found nowhere else on Earth",
         "howToReach":"https://www.thomascook.in/international-tourism/how-to-reach-madagascar"   
 
-    },
+    }
         
 ]
